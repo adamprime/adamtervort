@@ -1,5 +1,6 @@
 baseurl = "https://AdamTervort.com/"  # Include trailing slash
 title = "Adam Tervort"
+subtitle = "Mindfulness amid technology"
 theme = "newsroom"
 author = "Adam Tervort"
 copyright = "Copyright © 2019 Adam Tervort"
