@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Adam Tervort</title>
+    <link>https://adamtervort.com/posts/</link>
+    <description>Recent content in blog on Adam Tervort</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2019, Adam Tervort</copyright>
+    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
+    
+	<atom:link href="https://adamtervort.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Intermittent Fasting has helped my relationship with food</title>
+      <link>https://adamtervort.com/posts/intermittent-fasting/</link>
+      <pubDate>Sat, 12 Jan 2019 09:44:26 -0600</pubDate>
+      
+      <guid>https://adamtervort.com/posts/intermittent-fasting/</guid>
+      <description>Back in November I ran across an excellent article on Medium about How to Configure Your iPhone to Work for You, Not Against You. I loved it, and spent the better part of an evening implementing many of the recommendations on my phone. There were several recommended apps that I had never heard of that I set off to explore, including one called ‎Zero - Fasting Tracker. I downloaded it and started to do some research on Intermittent Fasting, the practice the app helps you track.</description>
+    </item>
+    
+    <item>
+      <title>In Memory of Roy Hargrove</title>
+      <link>https://adamtervort.com/posts/in-memory-of-roy-hargrove/</link>
+      <pubDate>Mon, 05 Nov 2018 19:53:56 -0600</pubDate>
+      
+      <guid>https://adamtervort.com/posts/in-memory-of-roy-hargrove/</guid>
+      <description>As a gawky high school freshman I was invited to do something really cool and join the high school jazz band. Our school district put freshmen at the junior high, so it was pretty neat to go to the high school a couple of times a week and play music with the upperclassmen. I was the only bass player in the high school system so it didn’t matter that I wasn’t any good; if they wanted a bass player they were stuck with me.</description>
+    </item>
+    
+    <item>
+      <title>Fundraising for a local nonprofit is the worst</title>
+      <link>https://adamtervort.com/posts/mmco/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://adamtervort.com/posts/mmco/</guid>
+      <description>Over the past 11 months I have served as the president of the board of a small 501(3)c nonprofit in my hometown, the Many Moods Choir and Orchestra. Each Christmas season we perform two free concerts for the community. The orchestra and choir are all volunteers who give up time on during for months worth of Saturdays to rehearse together. (This doesn&amp;rsquo;t include all the personal practice time involved. The music we play is hard!</description>
+    </item>
+    
+  </channel>
+</rss>

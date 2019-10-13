@@ -1,0 +1,39 @@
+baseurl = "https://adamtervort.com/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Adam Tervort"
+subtitle = "I work on the people side of an awesome tech company. I ❤️KC, ⚾️Royals, jazz🎶, hammocks, 中文, 🇹🇼, microgreens 🌱."
+theme = "stip"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "Adam Tervort"
+    bio = "Customer Success, Marketing, and Analog Productivity"
+    # bio = "I ❤️KC, ⚾️Royals, jazz🎶, hammocks, 中文, 🇹🇼, microgreens 🌱"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "rss"
+        title = "Read more on Hammock Marketing, my blog 📝"
+        url = "https://hammock.marketing"      
+    
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "Prefer email? I can do that 📨"
+        url = "mailto:adam@adamtervort.com"
+ 
+    [[params.links]]
+        icon = "twitter"
+        title = "Connect with me on Twitter 🐦"
+        url = "https://twitter.com/adamtervort/"
+
+    [[params.links]]
+        icon = "github"
+        title = "Projects on Github 🐙"
+        url = "https://github.com/adamprime"
+
+
+      

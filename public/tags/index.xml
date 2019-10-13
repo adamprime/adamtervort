@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Adam Tervort</title>
+    <link>https://adamtervort.com/tags/</link>
+    <description>Recent content in Tags on Adam Tervort</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2019, Adam Tervort</copyright>
+    <lastBuildDate>Sat, 12 Jan 2019 09:44:26 -0600</lastBuildDate>
+    
+	<atom:link href="https://adamtervort.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>fasting</title>
+      <link>https://adamtervort.com/tags/fasting/</link>
+      <pubDate>Sat, 12 Jan 2019 09:44:26 -0600</pubDate>
+      
+      <guid>https://adamtervort.com/tags/fasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://adamtervort.com/tags/health/</link>
+      <pubDate>Sat, 12 Jan 2019 09:44:26 -0600</pubDate>
+      
+      <guid>https://adamtervort.com/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jazz</title>
+      <link>https://adamtervort.com/tags/jazz/</link>
+      <pubDate>Mon, 05 Nov 2018 19:53:56 -0600</pubDate>
+      
+      <guid>https://adamtervort.com/tags/jazz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trumpet</title>
+      <link>https://adamtervort.com/tags/trumpet/</link>
+      <pubDate>Mon, 05 Nov 2018 19:53:56 -0600</pubDate>
+      
+      <guid>https://adamtervort.com/tags/trumpet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>health on Adam Tervort</title>
+    <link>https://adamtervort.com/tags/health/</link>
+    <description>Recent content in health on Adam Tervort</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2019, Adam Tervort</copyright>
+    <lastBuildDate>Sat, 12 Jan 2019 09:44:26 -0600</lastBuildDate>
+    
+	<atom:link href="https://adamtervort.com/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Intermittent Fasting has helped my relationship with food</title>
+      <link>https://adamtervort.com/posts/intermittent-fasting/</link>
+      <pubDate>Sat, 12 Jan 2019 09:44:26 -0600</pubDate>
+      
+      <guid>https://adamtervort.com/posts/intermittent-fasting/</guid>
+      <description>Back in November I ran across an excellent article on Medium about How to Configure Your iPhone to Work for You, Not Against You. I loved it, and spent the better part of an evening implementing many of the recommendations on my phone. There were several recommended apps that I had never heard of that I set off to explore, including one called ‎Zero - Fasting Tracker. I downloaded it and started to do some research on Intermittent Fasting, the practice the app helps you track.</description>
+    </item>
+    
+  </channel>
+</rss>
