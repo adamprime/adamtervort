@@ -1,4 +1,4 @@
 ---
-title: "Adam Tervort"
+title: "Home"
 Subtitle: "Mindfulness amid technology"
 ---
