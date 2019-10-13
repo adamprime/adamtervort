@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "About"
 date: 2018-10-31
 slug: /about
 ---
