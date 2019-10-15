@@ -10,11 +10,10 @@ tags = [""] # in quotes, comma separated
 image = "" # ideal width is 1440 px
 +++
 
-<small> *[Photo by SOMEBODY](https://unsplash.com/linklinklink)* </small>
+
+<center>❧</center>
+<center><small> *[Photo by SOMEBODY](https://unsplash.com/linklinklink)* </small>
 
 ---
 
-
-
----
-<center>📨Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)
+📨Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
