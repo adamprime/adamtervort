@@ -2,7 +2,7 @@
 author = "Adam Tervort"
 title = "The things we actually have control of"
 date = "2019-10-21"
-draft = true
+draft = false
 slug = "/things-we-can-control"
 description = "So much of life is out of our control, but the most important things are within our grasp and we have full access to."
 categories = ["stoicism"] # in quotes, comma separated
