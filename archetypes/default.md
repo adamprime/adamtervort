@@ -16,4 +16,4 @@ image = "" # ideal width is 1440 px
 
 ---
 
-📨Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
