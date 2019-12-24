@@ -7,10 +7,11 @@ slug = "simple-method-reading"
 description = "Our output is determined by the quality of our input. Reading is the simplest way to improve all aspects of your job performance. Here are some simple ways to help you read more."
 categories = ["reading"] # in quotes, comma separated
 tags = ["productivity","input"] # in quotes, comma separated
-image = "simple-method-reading.jpg" # ideal width is 1440 px
+featured_image = "/images/simple-method-reading.jpg" # ideal width is 1440 px
 +++
 
 I feel lucky that I’m wired to be a reader. From my childhood I spent lots of time reading books and it’s something that I still do. My mother used to kick me and my brother out of the house so we would stop reading so much. I wish I had to do that more often with my kids!
+<!--more-->
 
 In my career this has been so important. Each time I take on a new task or join a new team I assemble a reading list, plow through it, add new blogs to my daily feed, and within a short time I feel more comfortable with the basics of what I’ve been asked to do. Reading will never be the same as doing and experience is important, but for me quality reading makes the journey towards doing much shorter and fulfilling. 
 

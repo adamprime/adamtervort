@@ -7,7 +7,7 @@ slug = "small-successes"
 description = "Getting started is important. Perhaps more important is setting up for long term success by successfully completing small batches of work so that the act of work leaves you filled with success."
 categories = ["work"] # in quotes, comma separated
 tags = ["pomodoro"] # in quotes, comma separated
-image = "small-successes.jpg" # ideal width is 1440 px
+featured_image = "/images/small-successes.jpg" # ideal width is 1440 px
 +++
 
 One of the hardest aspects of work for me is when I know I have a hard task to do. I’ve found some psychological trickery that works well on me that might be useful for you too.

@@ -7,7 +7,7 @@ slug = "showing-up"
 description = "Each time we show up is another vote we cast towards the future version of ourself that we want to be."
 categories = ["practice"] # in quotes, comma separated
 tags = ["habits","art"] # in quotes, comma separated
-image = "showing-up-optimized.jpg" # ideal width is 1440 px
+featured_image = "/images/showing-up-optimized.jpg" # ideal width is 1440 px
 +++
 
 All skills, habits, hobbies, and jobs that are worth doing take time and repetition. They don’t come easily or without effort.

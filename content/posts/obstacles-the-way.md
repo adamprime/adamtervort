@@ -7,7 +7,7 @@ slug = "/obstacles-the-way"
 description = "Life throws all kinds of problems at us. We always have a choice how we will react."
 categories = ["stoicism"] # in quotes, comma separated
 tags = ["choices","Marcus Aurelius"] # in quotes, comma separated
-image = "obstacles.jpg" # ideal width is 1440 px
+featured_image = "/images/obstacles.jpg" # ideal width is 1440 px
 +++
 
 It’s the nature of being human that we will have bad days. And sometimes bad weeks. Or bad months. Maybe even bad years. 

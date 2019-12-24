@@ -5,7 +5,7 @@ description = "Roy Hargrove was a great jazz trumpeter. His music changed my lif
 categories = ["music"]
 tags = ["jazz", "trumpet"]
 weight = ""
-image = "rh.jpg"
+featured_image = "/images/rh.jpg"
 +++
 
 As a gawky high school freshman I was invited to do something really cool and join the high school jazz band. Our school district put freshmen at the junior high, so it was pretty neat to go to the high school a couple of times a week and play music with the upperclassmen. I was the only bass player in the high school system so it didn’t matter that I wasn’t any good; if they wanted a bass player they were stuck with me.

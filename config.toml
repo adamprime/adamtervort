@@ -5,7 +5,7 @@ title = "Adam Tervort"                                   # website title
 theme = "LoveIt"                                         # theme
 enableGitInfo = false                                    # whether to use git commit log to generate lastmod record
 hasCJKLanguage = false                                   # whether to include chinese/japanese/korean
-paginate = 5                                          # default amount of posts in each pages
+paginate = 10                                         # default amount of posts in each pages
 enableEmoji = true                                       # whether to use emoji code
 enableRobotsTXT = true                                   # whether to use robots.txt
 googleAnalytics = "UA-128042666-5"                       # [UA-XXXXXXXX-X] google analytics code
@@ -70,7 +70,7 @@ staticDir = ["static", "../assets/others"]               # static directories
 
                                                       #### Home Page Info
   home_mode = "post"                                     # [post, other] home mode
-  home_paginate = 5                                     # special amount of posts in each home post page
+  home_paginate = 10                                  # special amount of posts in each home post page
   #avatar = "images/avatar.png"                           # URL of avatar shown in home page
   subtitle = "Mindful writing about work and analog productivity"  # subtitle shown in home page
 

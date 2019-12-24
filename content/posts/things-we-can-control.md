@@ -7,7 +7,7 @@ slug = "/things-we-can-control"
 description = "So much of life is out of our control, but the most important things are within our grasp and we have full access to."
 categories = ["stoicism"] # in quotes, comma separated
 tags = ["control","jazz"] # in quotes, comma separated
-image = "what-we-can-control-optimized.jpg" # ideal width is 1440 px
+featured_image = "/images/what-we-can-control-optimized.jpg" # ideal width is 1440 px
 +++
 
 As I write this I’m listening to three student jazz groups playing. (I have one child in each group so I sit in between the three rehearsal rooms so I can catch snatches of each group as they play.) 

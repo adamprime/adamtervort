@@ -6,7 +6,7 @@ draft: false
 description: "IF has helped me lose weight, control snacking, as well as improve my mental clarity and energy levels. Here's my story."
 categories: ["health","fasting"]
 tags: ["health","fasting"]
-image : "if-herbaltea.jpg" # ideal width is 1440 px
+featured_image : "/images/if-herbaltea.jpg" # ideal width is 1440 px
 ---
 
 Back in November I ran across an excellent article on Medium about [How to Configure Your iPhone to Work for You, Not Against You](https://betterhumans.coach.me/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8?gi=7d19619405ff). I loved it, and spent the better part of an evening implementing many of the recommendations on my phone. There were several recommended apps that I had never heard of that I set off to explore, including one called [‎Zero - Fasting Tracker](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8). I downloaded it and started to do some research on Intermittent Fasting, the practice the app helps you track.
@@ -25,7 +25,7 @@ I wouldn’t say I have a bad relationship with food, but it’s definitely comp
 
 The first immediate change I noticed was that I stopped snacking. After the first two days, which were hard, I stopped eating anything between meals. (The routine I have been following is fasting from after dinner, usually starting at 6 pm, until at least 10 am. The eating window starts then and ends at 6 pm.) I eat a good lunch, have a nice dinner with my family, and don’t really eat anything in between. It’s not that I’m trying not to snack; it just hasn’t happened. This is a big change for me.
 
-I have been able to use IF as a trigger for new habits. [1] When I get hungry in the morning I make a cup of herbal tea or fizzy water. This helps tide me over until lunch and is a great time to do a mindful activity. I started writing in my journal during this morning tea time, another habit I’ve tried and failed to be consistent at in the past. Being more mindful isn’t a strictly physical benefit of IF, but it’s had a very real effect for me.
+I have been able to use IF as a trigger for new habits. [^1] When I get hungry in the morning I make a cup of herbal tea or fizzy water. This helps tide me over until lunch and is a great time to do a mindful activity. I started writing in my journal during this morning tea time, another habit I’ve tried and failed to be consistent at in the past. Being more mindful isn’t a strictly physical benefit of IF, but it’s had a very real effect for me.
 
 There have been some good physical changes as well. I have lost some weight. Nothing dramatic, but enough that it’s about time to go buy some new pants. My skin is clearer than it’s been in years. I have more energy, particularly in the afternoon. (I haven’t had a post-lunch lull since I started with IF.) 
 
@@ -55,4 +55,4 @@ Thomas DeLauer. This guy has built his business and fitness principles around IF
 
 ## Notes
 
-[1] I got the idea of habit triggers from James Clear’s excellent book [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) which I highly recommend.
+[^1]: I got the idea of habit triggers from James Clear’s excellent book [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) which I highly recommend.

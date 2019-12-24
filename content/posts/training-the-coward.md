@@ -7,7 +7,7 @@ slug = "training-the-coward"
 description = "While we all hope life will be smooth and easy we all know that’s rarely the case. All worthwhile pursuits involve training the coward inside us to embrace suffering and push past our breaking point"
 categories = [""] # in quotes, comma separated
 tags = [""] # in quotes, comma separated
-image = "training-the-coward.jpeg" # ideal width is 1440 px
+featured_image = "/images/training-the-coward.jpeg" # ideal width is 1440 px
 +++
 
 Recently I’ve been reading a lot about stoic philosophy and applications of stoicism. Ryan Holiday has some great books that are good primers on the philosophy and great springboards for applied stoicism. 
