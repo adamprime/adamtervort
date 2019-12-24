@@ -86,7 +86,7 @@ pygmentsCodefencesGuessSyntax = true
   linkToMarkdown = false                                  # whether to show link to Raw Markdown content of the post
 
                                                       #### site verification code for Google/Bing/Yandex/Pinterest/Baidu
-  google_verification = ""
+  google_verification = "google-site-verification=mD7wYzD_gsFR9PG_vaIhDsuWIkiuNQDmm4qKcMo4K6E"
   bing_verification = ""
   yandex_verification = ""
   pinterest_verification = ""
