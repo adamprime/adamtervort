@@ -28,5 +28,5 @@ math: false
 <center><small> *[Photo by SOMEBODY](https://unsplash.com/linklinklink)* </small>
 
 ---
-
+<center>
 📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
