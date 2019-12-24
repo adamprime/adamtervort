@@ -69,7 +69,7 @@ staticDir = ["static", "../assets/others"]               # static directories
   keywords = ["mindfulness", "productivity", "analog"]                   # site keywords
 
                                                       #### Home Page Info
-  home_mode = "posts"                                     # [post, other] home mode
+  home_mode = "post"                                     # [post, other] home mode
   home_paginate = 5                                     # special amount of posts in each home post page
   #avatar = "images/avatar.png"                           # URL of avatar shown in home page
   subtitle = "Mindful writing about work and analog productivity"  # subtitle shown in home page
