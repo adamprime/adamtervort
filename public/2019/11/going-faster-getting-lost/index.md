@@ -14,5 +14,5 @@ I still find truth in these principles. Keep moving. Ask for help when you need 
 <center><small> *[Photo by Ruslan Bardash on Unsplash](https://unsplash.com/photos/xRdZIt66FSE)* </small>
 
 ---
-
+<center>
 📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>

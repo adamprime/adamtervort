@@ -17,7 +17,7 @@ I wouldn’t say I have a bad relationship with food, but it’s definitely comp
 
 The first immediate change I noticed was that I stopped snacking. After the first two days, which were hard, I stopped eating anything between meals. (The routine I have been following is fasting from after dinner, usually starting at 6 pm, until at least 10 am. The eating window starts then and ends at 6 pm.) I eat a good lunch, have a nice dinner with my family, and don’t really eat anything in between. It’s not that I’m trying not to snack; it just hasn’t happened. This is a big change for me.
 
-I have been able to use IF as a trigger for new habits. [1] When I get hungry in the morning I make a cup of herbal tea or fizzy water. This helps tide me over until lunch and is a great time to do a mindful activity. I started writing in my journal during this morning tea time, another habit I’ve tried and failed to be consistent at in the past. Being more mindful isn’t a strictly physical benefit of IF, but it’s had a very real effect for me.
+I have been able to use IF as a trigger for new habits. [^1] When I get hungry in the morning I make a cup of herbal tea or fizzy water. This helps tide me over until lunch and is a great time to do a mindful activity. I started writing in my journal during this morning tea time, another habit I’ve tried and failed to be consistent at in the past. Being more mindful isn’t a strictly physical benefit of IF, but it’s had a very real effect for me.
 
 There have been some good physical changes as well. I have lost some weight. Nothing dramatic, but enough that it’s about time to go buy some new pants. My skin is clearer than it’s been in years. I have more energy, particularly in the afternoon. (I haven’t had a post-lunch lull since I started with IF.) 
 
@@ -47,4 +47,4 @@ Thomas DeLauer. This guy has built his business and fitness principles around IF
 
 ## Notes
 
-[1] I got the idea of habit triggers from James Clear’s excellent book [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) which I highly recommend.
+[^1]: I got the idea of habit triggers from James Clear’s excellent book [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) which I highly recommend.
