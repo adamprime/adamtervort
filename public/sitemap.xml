@@ -1,89 +1,549 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://adamtervort.com/</loc>
-    <lastmod>2019-01-12T09:44:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/categories/</loc>
-    <lastmod>2019-01-12T09:44:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/categories/fasting/</loc>
-    <lastmod>2019-01-12T09:44:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/tags/fasting/</loc>
-    <lastmod>2019-01-12T09:44:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/categories/health/</loc>
-    <lastmod>2019-01-12T09:44:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/tags/health/</loc>
-    <lastmod>2019-01-12T09:44:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/posts/intermittent-fasting/</loc>
-    <lastmod>2019-01-12T09:44:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/tags/</loc>
-    <lastmod>2019-01-12T09:44:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/posts/in-memory-of-roy-hargrove/</loc>
-    <lastmod>2018-11-05T19:53:56-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/tags/jazz/</loc>
-    <lastmod>2018-11-05T19:53:56-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/categories/music/</loc>
-    <lastmod>2018-11-05T19:53:56-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/tags/trumpet/</loc>
-    <lastmod>2018-11-05T19:53:56-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/about/</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/posts/mmco/</loc>
-    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/categories/non-profit/</loc>
-    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/posts/</loc>
-    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamtervort.com/gallery/</loc>
-  </url>
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        <url>
+            <loc>https://adamtervort.com/</loc>
+            
+                <lastmod>2019-12-23T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/categories/</loc>
+            
+                <lastmod>2019-12-23T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/input/</loc>
+            
+                <lastmod>2019-12-23T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/posts/</loc>
+            
+                <lastmod>2019-12-23T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/productivity/</loc>
+            
+                <lastmod>2019-12-23T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/categories/reading/</loc>
+            
+                <lastmod>2019-12-23T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/</loc>
+            
+                <lastmod>2019-12-23T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2019/12/simple-method-reading/</loc>
+            
+                <lastmod>2019-12-23T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/pomodoro/</loc>
+            
+                <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2019/12/small-successes/</loc>
+            
+                <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/categories/work/</loc>
+            
+                <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2019/12/training-the-coward/</loc>
+            
+                <lastmod>2019-12-21T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/categories/first-principles/</loc>
+            
+                <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/getting-lost/</loc>
+            
+                <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/go-faster/</loc>
+            
+                <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2019/11/going-faster-getting-lost/</loc>
+            
+                <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/art/</loc>
+            
+                <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/habits/</loc>
+            
+                <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/categories/practice/</loc>
+            
+                <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2019/10/showing-up/</loc>
+            
+                <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/control/</loc>
+            
+                <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/jazz/</loc>
+            
+                <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/categories/stoicism/</loc>
+            
+                <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2019/10/things-we-can-control/</loc>
+            
+                <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/choices/</loc>
+            
+                <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/marcus-aurelius/</loc>
+            
+                <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2019/10/obstacles-the-way/</loc>
+            
+                <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/categories/fasting/</loc>
+            
+                <lastmod>2019-01-12T09:44:26-06:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/fasting/</loc>
+            
+                <lastmod>2019-01-12T09:44:26-06:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/health/</loc>
+            
+                <lastmod>2019-01-12T09:44:26-06:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/categories/health/</loc>
+            
+                <lastmod>2019-01-12T09:44:26-06:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2019/01/intermittent-fasting/</loc>
+            
+                <lastmod>2019-01-12T09:44:26-06:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2018/11/in-memory-of-roy-hargrove/</loc>
+            
+                <lastmod>2018-11-05T19:53:56-06:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/categories/music/</loc>
+            
+                <lastmod>2018-11-05T19:53:56-06:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/tags/trumpet/</loc>
+            
+                <lastmod>2018-11-05T19:53:56-06:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2018/09/mmco/</loc>
+            
+                <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/categories/non-profit/</loc>
+            
+                <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/about/</loc>
+            
+                <lastmod>2018-08-31T00:00:00+00:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://adamtervort.com/2018/02/old_index/</loc>
+            
+                <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
 </urlset>

@@ -1,41 +1,124 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Adam Tervort</title>
+    <title>Posts on Adam Tervort</title>
     <link>https://adamtervort.com/posts/</link>
-    <description>Recent content in blog on Adam Tervort</description>
+    <description>Recent content in Posts on Adam Tervort</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2019 Adam Tervort</copyright>
-    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://adamtervort.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>The Simple Method to Increase your Job Performance in the New Year</title>
+      <link>https://adamtervort.com/2019/12/simple-method-reading/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adamtervort.com/2019/12/simple-method-reading/</guid>
+      <description>I feel lucky that I’m wired to be a reader. From my childhood I spent lots of time reading books and it’s something that I still do. My mother used to kick me and my brother out of the house so we would stop reading so much. I wish I had to do that more often with my kids!
+In my career this has been so important. Each time I take on a new task or join a new team I assemble a reading list, plow through it, add new blogs to my daily feed, and within a short time I feel more comfortable with the basics of what I’ve been asked to do.</description>
+    </item>
+    
+    <item>
+      <title>Small successes lead to big victories</title>
+      <link>https://adamtervort.com/2019/12/small-successes/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adamtervort.com/2019/12/small-successes/</guid>
+      <description>One of the hardest aspects of work for me is when I know I have a hard task to do. I’ve found some psychological trickery that works well on me that might be useful for you too.
+I’m a big fan of the Pomodoro Technique. There are lots of ways to implement it, but the basic premise is to work for 25 minutes, then take a five minute break. After four 25 minute work periods then take a longer break.</description>
+    </item>
+    
+    <item>
+      <title>Training the Coward Inside</title>
+      <link>https://adamtervort.com/2019/12/training-the-coward/</link>
+      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adamtervort.com/2019/12/training-the-coward/</guid>
+      <description>Recently I’ve been reading a lot about stoic philosophy and applications of stoicism. Ryan Holiday has some great books that are good primers on the philosophy and great springboards for applied stoicism.
+Today I read You Must Train the Coward Inside You to my boys. (It’s a short read if you are interested.) Here are two of my favorite quotes:
+ Everyone has a breaking point. For most people, that point is very low, which is why many people never push themselves past their comfort zone.</description>
+    </item>
+    
+    <item>
+      <title>Going Faster and Getting Lost</title>
+      <link>https://adamtervort.com/2019/11/going-faster-getting-lost/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adamtervort.com/2019/11/going-faster-getting-lost/</guid>
+      <description>Seth Godin talked about going faster in a recent post. He said, “Going faster increase the chances you’ll find a landmark and become unlost.”
+That is so true. In my younger days when I taught English in Asia I sometimes decided I would take a new road home from work every day for a week. The main road home took 20 minutes on my scooter. There were many opportunities to get lost.</description>
+    </item>
+    
+    <item>
+      <title>The Profound Power in Showing Up</title>
+      <link>https://adamtervort.com/2019/10/showing-up/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adamtervort.com/2019/10/showing-up/</guid>
+      <description>All skills, habits, hobbies, and jobs that are worth doing take time and repetition. They don’t come easily or without effort.
+The process of acquiring these skills can be monotonous. Write 500 words. Throw 50 changeups. Create a lesson plan. Play your scales. Cook pasta. Repeat tomorrow and the next day and the next. It takes thousands of repetitions before something amazing happens, before the work becomes art. We usually don’t know exactly when the magic will happen and the wait can be tough.</description>
+    </item>
+    
+    <item>
+      <title>The things we actually have control of</title>
+      <link>https://adamtervort.com/2019/10/things-we-can-control/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adamtervort.com/2019/10/things-we-can-control/</guid>
+      <description>As I write this I’m listening to three student jazz groups playing. (I have one child in each group so I sit in between the three rehearsal rooms so I can catch snatches of each group as they play.)
+Last week these groups held auditions. One of the students who auditioned got his placement today and wasn’t willing to accept it. He is the oldest bass player that tried out but was placed in the lowest of the three groups.</description>
+    </item>
+    
+    <item>
+      <title>What stands in the way becomes the way</title>
+      <link>https://adamtervort.com/2019/10/obstacles-the-way/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adamtervort.com/2019/10/obstacles-the-way/</guid>
+      <description>It’s the nature of being human that we will have bad days. And sometimes bad weeks. Or bad months. Maybe even bad years.
+The list of things that can go wrong or happen to us seems endless. (Not trying to be a downer here, but it’s true!) There is real pain and suffering in the world and it happens to me and you.
+The good news is that we are never alone and that we always have a choice.</description>
+    </item>
+    
+    <item>
       <title>How Intermittent Fasting has helped my relationship with food</title>
-      <link>https://adamtervort.com/posts/intermittent-fasting/</link>
+      <link>https://adamtervort.com/2019/01/intermittent-fasting/</link>
       <pubDate>Sat, 12 Jan 2019 09:44:26 -0600</pubDate>
       
-      <guid>https://adamtervort.com/posts/intermittent-fasting/</guid>
+      <guid>https://adamtervort.com/2019/01/intermittent-fasting/</guid>
       <description>Back in November I ran across an excellent article on Medium about How to Configure Your iPhone to Work for You, Not Against You. I loved it, and spent the better part of an evening implementing many of the recommendations on my phone. There were several recommended apps that I had never heard of that I set off to explore, including one called ‎Zero - Fasting Tracker. I downloaded it and started to do some research on Intermittent Fasting, the practice the app helps you track.</description>
     </item>
     
     <item>
       <title>In Memory of Roy Hargrove</title>
-      <link>https://adamtervort.com/posts/in-memory-of-roy-hargrove/</link>
+      <link>https://adamtervort.com/2018/11/in-memory-of-roy-hargrove/</link>
       <pubDate>Mon, 05 Nov 2018 19:53:56 -0600</pubDate>
       
-      <guid>https://adamtervort.com/posts/in-memory-of-roy-hargrove/</guid>
+      <guid>https://adamtervort.com/2018/11/in-memory-of-roy-hargrove/</guid>
       <description>As a gawky high school freshman I was invited to do something really cool and join the high school jazz band. Our school district put freshmen at the junior high, so it was pretty neat to go to the high school a couple of times a week and play music with the upperclassmen. I was the only bass player in the high school system so it didn’t matter that I wasn’t any good; if they wanted a bass player they were stuck with me.</description>
     </item>
     
     <item>
       <title>Fundraising for a local nonprofit is the worst</title>
-      <link>https://adamtervort.com/posts/mmco/</link>
+      <link>https://adamtervort.com/2018/09/mmco/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://adamtervort.com/posts/mmco/</guid>
+      <guid>https://adamtervort.com/2018/09/mmco/</guid>
       <description>Over the past 11 months I have served as the president of the board of a small 501(3)c nonprofit in my hometown, the Many Moods Choir and Orchestra. Each Christmas season we perform two free concerts for the community. The orchestra and choir are all volunteers who give up time on during for months worth of Saturdays to rehearse together. (This doesn&amp;rsquo;t include all the personal practice time involved. The music we play is hard!</description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://adamtervort.com/2018/02/old_index/</link>
+      <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
+      
+      <guid>https://adamtervort.com/2018/02/old_index/</guid>
+      <description>My writing is pretty varied, from tech and productivity to family and travel. I enjoy sharing what I learn.
+Have thoughts you&amp;rsquo;d like to share with me? Let me know on Twitter. You can also find me on Medium or on LinkedIn.</description>
     </item>
     
   </channel>
