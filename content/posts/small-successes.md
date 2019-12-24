@@ -3,7 +3,7 @@ author = "Adam Tervort"
 title = "Small successes lead to big victories"
 date = "2019-12-22"
 draft = false
-slug = "small-successes"
+url = "/small-successes"
 description = "Getting started is important. Perhaps more important is setting up for long term success by successfully completing small batches of work so that the act of work leaves you filled with success."
 categories = ["work"] # in quotes, comma separated
 tags = ["pomodoro"] # in quotes, comma separated
@@ -24,5 +24,5 @@ Hat tip to [David Cain](https://www.raptitude.com/2019/12/how-to-make-meditation
 <center><small> *[Photo by Joshua Earle](https://unsplash.com/photos/-87JyMb9ZfU)* </small>
 
 ---
-
+<center>
 📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>

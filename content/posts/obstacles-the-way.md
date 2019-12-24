@@ -26,5 +26,5 @@ Whatever is standing in your way, use it to help you move forward.
 <center><small> *[Photo by Michael Rosner-Hyman on Unsplash](https://unsplash.com/photos/ZAmXj9CqG-4)* </small>
 
 ---
-
+<center>
 📨Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>

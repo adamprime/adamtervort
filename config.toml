@@ -19,7 +19,7 @@ pygmentsCodefences = true
 pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 
-staticDir = ["static", "../assets/others"]               # static directories
+#staticDir = ["static", "../assets/others"]               # static directories
 
 [author]                                              #### Author Info
   name = "Adam Tervort"
@@ -65,14 +65,14 @@ staticDir = ["static", "../assets/others"]               # static directories
 
 [params]
   version = "5.x"                                        # LoveIt theme version
-  description = "Adam Tervort - Mindful writing about work and analog productivity"                      # site description
+  description = "Adam Tervort - Mindful writing on work and productivity"                      # site description
   keywords = ["mindfulness", "productivity", "analog"]                   # site keywords
 
                                                       #### Home Page Info
   home_mode = "post"                                     # [post, other] home mode
   home_paginate = 10                                  # special amount of posts in each home post page
   #avatar = "images/avatar.png"                           # URL of avatar shown in home page
-  subtitle = "Mindful writing about work and analog productivity"  # subtitle shown in home page
+  subtitle = "Mindful writing on work and productivity"  # subtitle shown in home page
 
   socialShare = false                                     # whether to show social share links in post page
 

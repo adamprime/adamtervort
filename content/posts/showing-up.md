@@ -26,5 +26,5 @@ Start small. Tie your practice to something you already do consistently. Keep tr
 <center><small> *[Photo by Tyson Dudley on Unsplash](https://unsplash.com/photos/Phmg7twgYZc)* </small>
 
 ---
-
+<center>
 📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>

@@ -24,5 +24,5 @@ While we all hope life will be smooth and easy we all know that’s rarely the c
 <center><small> *[Photo by Stage 7 Photography](https://unsplash.com/photos/cdhtUbXmXIw)* </small>
 
 ---
-
+<center>
 📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>

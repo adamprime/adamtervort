@@ -3,7 +3,7 @@ author = "Adam Tervort"
 title = "The Simple Method to Increase your Job Performance in the New Year"
 date = "2019-12-23"
 draft = false
-slug = "simple-method-reading"
+url = "/simple-method-reading"
 description = "Our output is determined by the quality of our input. Reading is the simplest way to improve all aspects of your job performance. Here are some simple ways to help you read more."
 categories = ["reading"] # in quotes, comma separated
 tags = ["productivity","input"] # in quotes, comma separated
@@ -36,5 +36,5 @@ HT to [Scott H. Young](https://www.scotthyoung.com/blog/2019/12/23/7-habits-read
 <center><small> *[Photo by Sincerely Media](https://unsplash.com/photos/BfriYg0iOCs)* </small>
 
 ---
-
+<center>
 📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>

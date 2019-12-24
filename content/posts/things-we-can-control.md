@@ -36,5 +36,5 @@ I hope the young man decides that he is going to go forward and grasp this oppor
 <center><small> *[Photo by Miti on Unsplash](https://unsplash.com/photos/vSws0g1KjxI)* </small>
 
 ---
-
+<center>
 📨Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
