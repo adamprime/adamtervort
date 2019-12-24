@@ -1,52 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Adam Tervort</title>
-    <link>https://adamtervort.com/</link>
-    <description>Recent content on Adam Tervort</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2019 Adam Tervort</copyright>
-    <lastBuildDate>Sat, 12 Jan 2019 09:44:26 -0600</lastBuildDate>
-    
-	<atom:link href="https://adamtervort.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>How Intermittent Fasting has helped my relationship with food</title>
-      <link>https://adamtervort.com/posts/intermittent-fasting/</link>
-      <pubDate>Sat, 12 Jan 2019 09:44:26 -0600</pubDate>
-      
-      <guid>https://adamtervort.com/posts/intermittent-fasting/</guid>
-      <description>Back in November I ran across an excellent article on Medium about How to Configure Your iPhone to Work for You, Not Against You. I loved it, and spent the better part of an evening implementing many of the recommendations on my phone. There were several recommended apps that I had never heard of that I set off to explore, including one called ‎Zero - Fasting Tracker. I downloaded it and started to do some research on Intermittent Fasting, the practice the app helps you track.</description>
-    </item>
-    
-    <item>
-      <title>In Memory of Roy Hargrove</title>
-      <link>https://adamtervort.com/posts/in-memory-of-roy-hargrove/</link>
-      <pubDate>Mon, 05 Nov 2018 19:53:56 -0600</pubDate>
-      
-      <guid>https://adamtervort.com/posts/in-memory-of-roy-hargrove/</guid>
-      <description>As a gawky high school freshman I was invited to do something really cool and join the high school jazz band. Our school district put freshmen at the junior high, so it was pretty neat to go to the high school a couple of times a week and play music with the upperclassmen. I was the only bass player in the high school system so it didn’t matter that I wasn’t any good; if they wanted a bass player they were stuck with me.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://adamtervort.com/about/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://adamtervort.com/about/</guid>
-      <description>Hello, I&amp;rsquo;m Adam. I work on the people side of an awesome tech company, SpiderOak. Here&amp;rsquo;s a short punch list of interesting things about me:
- I grew up in KCMO I lived in Taiwan for 10 years I&amp;rsquo;m fluent in Mandarin My first &amp;ldquo;real job&amp;rdquo; way playing jazz bass around Kansas City My second &amp;ldquo;real job&amp;rdquo; was teaching ESL, both in the US and in Asia Someday I&amp;rsquo;ll grow up and get another &amp;ldquo;real job&amp;rdquo;, but for now I play with computers all day I can&amp;rsquo;t stand most music with lyrics.</description>
-    </item>
-    
-    <item>
-      <title>Fundraising for a local nonprofit is the worst</title>
-      <link>https://adamtervort.com/posts/mmco/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://adamtervort.com/posts/mmco/</guid>
-      <description>Over the past 11 months I have served as the president of the board of a small 501(3)c nonprofit in my hometown, the Many Moods Choir and Orchestra. Each Christmas season we perform two free concerts for the community. The orchestra and choir are all volunteers who give up time on during for months worth of Saturdays to rehearse together. (This doesn&amp;rsquo;t include all the personal practice time involved. The music we play is hard!</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>Adam Tervort on Adam Tervort</title>
+        <link>https://adamtervort.com/</link>
+        <description>Recent content in Adam Tervort on Adam Tervort</description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+            <language>en</language>
+        
+        
+        
+            <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        
+        
+            <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+        
+        <atom:link href="https://adamtervort.com/" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>Posts</title>
+                <link>https://adamtervort.com/posts/</link>
+                <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+                
+                <guid>https://adamtervort.com/posts/</guid>
+                <description></description>
+            </item>
+        
+            <item>
+                <title>About</title>
+                <link>https://adamtervort.com/about/</link>
+                <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+                
+                <guid>https://adamtervort.com/about/</guid>
+                <description>&lt;p&gt;Hello, I&amp;rsquo;m Adam. I work on the people side of an awesome tech company, SpiderOak. Here&amp;rsquo;s a short punch list of interesting things about me:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I grew up in KCMO&lt;/li&gt;
+&lt;li&gt;I lived in Taiwan for 10 years&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m fluent in Mandarin&lt;/li&gt;
+&lt;li&gt;My first &amp;ldquo;real job&amp;rdquo; way playing jazz bass around Kansas City&lt;/li&gt;
+&lt;li&gt;My second &amp;ldquo;real job&amp;rdquo; was teaching ESL, both in the US and in Asia&lt;/li&gt;
+&lt;li&gt;Someday I&amp;rsquo;ll grow up and get another &amp;ldquo;real job&amp;rdquo;, but for now I play with computers all day&lt;/li&gt;
+&lt;li&gt;I can&amp;rsquo;t stand most music with lyrics. (Unless it&amp;rsquo;s jazz. But definitely not smooth jazz. That doesn&amp;rsquo;t even qualify as music.)&lt;/li&gt;
+&lt;li&gt;Aside from being a music snob, I&amp;rsquo;m generally pretty nice&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One of the things I most enjoy is sharing what I know. If there&amp;rsquo;s something I can help you with please let me know! I have a number of courses available on my side project, &lt;a href=&#34;https://learn.hammock.marketing&#34;&gt;Hammock Marketing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Want to connect? I&amp;rsquo;m on &lt;a href=&#34;https://twitter.com/adamtervort&#34;&gt;Twitter&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/adam-tervort/&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
+</description>
+            </item>
+        
+    </channel>
 </rss>
