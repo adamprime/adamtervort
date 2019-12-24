@@ -1,7 +1,7 @@
 ---
 title: "Fundraising for a local nonprofit is the worst"
 date: 2018-09-04
-slug: "mmco"
+url: "/mmco"
 image: mmco.jpg
 categories: ["non-profit"]
 featured_image: "/images/mmco.jpg"

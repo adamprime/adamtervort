@@ -1,6 +1,6 @@
 ---
 title: "How Intermittent Fasting has helped my relationship with food"
-slug: "intermittent-fasting"
+url: "/intermittent-fasting"
 date: 2019-01-12T09:44:26-06:00
 draft: false
 description: "IF has helped me lose weight, control snacking, as well as improve my mental clarity and energy levels. Here's my story."
