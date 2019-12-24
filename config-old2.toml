@@ -1,0 +1,37 @@
+baseurl = "https://adamtervort.com/"  # Include trailing slash
+title = "Adam Tervort"
+subtitle = "Mindfulness amid technology"
+theme = "newsroom"
+author = "Adam Tervort"
+copyright = "Copyright © 2019 Adam Tervort"
+canonifyurls = true
+paginate = 3
+# Enable syntax highlighting
+# comment or delete the following lines 11 ~ 14
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses=false
+pygmentsOptions = "linenos=table"
+
+# If you want to use disqus, uncomment the line below
+disqusShortname = "kungpaoadam"
+
+# ids used below are not valid. Replace with valid ones
+[params]
+  ga_analytics = "UA-128042666-5" # google analytics ID e.g UA-116386578-1
+  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+    
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+  
+  twitter = "@adamtervort" # twitter handle e.g @weru
+
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true

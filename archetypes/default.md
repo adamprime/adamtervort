@@ -1,15 +1,28 @@
-+++
-author = "Adam Tervort"
-title = ""
-date = "{{ dateFormat "2006-01-02" .Date }}"
-draft = true
-slug = "{{ .Name }}"
-description = ""
-categories = [""] # in quotes, comma separated
-tags = [""] # in quotes, comma separated
-image = "" # ideal width is 1440 px
-+++
+---
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+slug: "{{ .Name }}"
+date: {{ dateFormat "2006-01-02" .Date }}
+lastmod: {{ dateFormat "2006-01-02" .Date }}
+draft: true
+description: ""
+show_in_homepage: true
+show_description: false
 
+tags: []
+categories: []
+
+featured_image: ''
+featured_image_preview: ''
+
+comment: true
+toc: false
+autoCollapseToc: true
+math: false
+---
+
+
+
+<!--more-->
 
 <center>❧</center>
 <center><small> *[Photo by SOMEBODY](https://unsplash.com/linklinklink)* </small>
