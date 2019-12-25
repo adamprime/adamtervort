@@ -1,7 +1,7 @@
 ---
 title: "The Profound Power in Showing Up"
 slug: "/showing-up"
-date: 2019-12-24
+date: 2019-10-24
 lastmod: 2019-12-25
 draft: false
 description: "Each time we show up is another vote we cast towards the future version of ourself that we want to be."
