@@ -1,14 +1,24 @@
-+++
-author = "Adam Tervort"
-title = "The Profound Power in Showing Up"
-date = "2019-10-22"
-draft = false
-url = "/showing-up"
-description = "Each time we show up is another vote we cast towards the future version of ourself that we want to be."
-categories = ["practice"] # in quotes, comma separated
-tags = ["habits","art"] # in quotes, comma separated
-featured_image = "/images/showing-up-optimized.jpg" # ideal width is 1440 px
-+++
+---
+title: "The Profound Power in Showing Up"
+slug: "/showing-up"
+date: 2019-12-24
+lastmod: 2019-12-25
+draft: false
+description: "Each time we show up is another vote we cast towards the future version of ourself that we want to be."
+show_in_homepage: true
+show_description: false
+
+tags: [habits, art]
+categories: [practice]
+
+featured_image: '/images/showing-up-optimized.jpg'
+featured_image_preview: '/images/showing-up-optimized.jpg'
+
+comment: true
+toc: false
+autoCollapseToc: true
+math: false
+---
 
 All skills, habits, hobbies, and jobs that are worth doing take time and repetition. They don’t come easily or without effort.
 

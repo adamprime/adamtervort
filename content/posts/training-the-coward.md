@@ -1,14 +1,24 @@
-+++
-author = "Adam Tervort"
-title = "Training the Coward Inside"
-date = "2019-12-21"
-draft = false
-url = "/training-the-coward"
-description = "While we all hope life will be smooth and easy we all know that’s rarely the case. All worthwhile pursuits involve training the coward inside us to embrace suffering and push past our breaking point"
-categories = [""] # in quotes, comma separated
-tags = [""] # in quotes, comma separated
-featured_image = "/images/training-the-coward.jpeg" # ideal width is 1440 px
-+++
+---
+title: "Training the Coward Inside"
+slug: "/training-the-coward"
+date: 2019-12-20
+lastmod: 2019-12-25
+draft: false
+description: "While we all hope life will be smooth and easy we all know that’s rarely the case. All worthwhile pursuits involve training the coward inside us to embrace suffering and push past our breaking point"
+show_in_homepage: true
+show_description: false
+
+tags: [suffering]
+categories: [stoicism]
+
+featured_image: '/images/training-the-coward.jpeg'
+featured_image_preview: '/images/training-the-coward.jpeg'
+
+comment: true
+toc: false
+autoCollapseToc: true
+math: false
+---
 
 Recently I’ve been reading a lot about stoic philosophy and applications of stoicism. Ryan Holiday has some great books that are good primers on the philosophy and great springboards for applied stoicism. 
 
