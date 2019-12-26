@@ -11,8 +11,8 @@ show_description: false
 tags: []
 categories: []
 
-featured_image: ''
-featured_image_preview: ''
+featured_image: '' # 1100 px width
+featured_image_preview: '' # 560x170 px for preview image
 
 comment: true
 toc: false
