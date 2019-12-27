@@ -12,7 +12,7 @@ tags: [internet, language]
 categories: [communication]
 
 featured_image: '/images/2019-12/misunderstand-acronyms.jpg' # 1100 px width
-featured_image_preview: '/images/2019-12/misunderstand-acronyms-500.jpg' # 560x170 px for preview image
+featured_image_preview: 'images/2019-12/misunderstand-acronyms-500.jpg' # 560x170 px for preview image
 
 comment: true
 toc: false

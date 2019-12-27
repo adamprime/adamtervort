@@ -12,7 +12,7 @@ tags: [accessibility, black and white]
 categories: [productivity]
 
 featured_image: '/images/2019-12/monochrome-phone-screen.png' # 1100 px width
-featured_image_preview: '/images/2019-12/monochrome-phone-screen.png' # 560x170 px for preview image
+featured_image_preview: 'images/2019-12/monochrome-phone-screen.png' # 560x170 px for preview image
 
 comment: true
 toc: false
