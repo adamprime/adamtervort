@@ -8,8 +8,8 @@ description: "It can be funny when acronyms are misunderstood. Just make sure it
 show_in_homepage: true
 show_description: false
 
-tags: []
-categories: []
+tags: [internet, language]
+categories: [communication]
 
 featured_image: '/images/2019-12/misunderstand-acronyms.jpg' # 1100 px width
 featured_image_preview: '/images/2019-12/misunderstand-acronyms-500.jpg' # 560x170 px for preview image
