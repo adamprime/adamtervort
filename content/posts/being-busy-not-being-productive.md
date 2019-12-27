@@ -3,7 +3,7 @@ title: "Being Busy is Not Equal to Being Productive"
 slug: "being-busy-not-being-productive"
 date: 2019-12-26
 lastmod: 2019-12-26
-draft: true
+draft: false
 description: "Being busy doesn’t help you get more done or mean that you’re important. Strive for productivity instead."
 show_in_homepage: true
 show_description: false
