@@ -3,7 +3,7 @@ title: "How to Switch your iPhone to Monochrome Mode"
 slug: "monochrome-phone-screen"
 date: 2019-12-28
 lastmod: 2019-12-28
-draft: true
+draft: false
 description: "A lot of the visual fun of using a device is gone when there’s no color. Putting a phone in monochrome mode makes it a tool rather than a toy."
 show_in_homepage: true
 show_description: false
