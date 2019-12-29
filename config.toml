@@ -192,18 +192,18 @@ pygmentsCodefencesGuessSyntax = true
     name = "Adam Tervort"
     [params.publisher.logo]
       url = "logo.png"
-      width = 127
-      height = 40
+      width = 192
+      height = 192
 
   [params.logo]                                          # Website Log Info just for SEO
     url = "logo.png"
-    width = 127
-    height = 40
+    width = 192
+    height = 192
 
   [params.image]                                         # Website Image Info just for SEO
-    url = "cover.png"
+    url = "cover.jpg"
     width = 800
-    height = 600
+    height = 533
 
   [params.gitalk]                                        # Gittalk Comment Config (https://github.com/gitalk/gitalk)
     owner = ""
