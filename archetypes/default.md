@@ -1,8 +1,8 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 slug: "{{ .Name }}"
-date: {{ dateFormat "2006-01-02" .Date }}
-lastmod: {{ dateFormat "2006-01-02" .Date }}
+date: {{ .Date }}
+lastmod: {{ .Date }}
 draft: true
 description: ""
 show_in_homepage: true
