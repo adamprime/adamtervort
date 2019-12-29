@@ -3,7 +3,7 @@ title: "Getting Tweets via Email"
 slug: "tweets-via-email"
 date: 2019-12-29
 lastmod: 2019-12-29
-draft: true
+draft: false
 description: "I love useful tweets but hate getting on Twitter. Here's how to get a curated list of tweets in your inbox each day."
 show_in_homepage: true
 show_description: false
