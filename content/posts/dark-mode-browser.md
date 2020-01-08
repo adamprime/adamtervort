@@ -4,7 +4,7 @@ slug: "dark-mode-browser"
 date: 2020-01-07T19:17:06-06:00
 lastmod: 2020-01-07T19:17:06-06:00
 draft: false
-description: "Here's a magic browser extension that puts any website in dark mode. Try it--your eyes will thank you. "
+description: "Here's a magic browser extension that puts any website in dark mode. Try it--your eyes will thank you."
 show_in_homepage: true
 show_description: false
 
