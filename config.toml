@@ -25,7 +25,7 @@ pygmentsCodefencesGuessSyntax = true
   name = "Adam Tervort"
 
 [sitemap]                                             #### Sitemap Info
-  changefreq = "weekly"
+  changefreq = "daily"
   filename = "sitemap.xml"
   priority = 0.5
 
@@ -240,7 +240,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [outputs]                                             #### Options to make hugo output .md files.
   home = ["HTML", "RSS"]
-  page = ["HTML", "MarkDown"]
+  page = ["HTML", "MarkDown", "RSS"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
