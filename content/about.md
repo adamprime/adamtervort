@@ -2,6 +2,9 @@
 title: "About"
 date: 2018-08-31
 slug: /about
+image: img/briana-tozour-QipZr29K7Mw-unsplash.jpg
+thumbnail: img/briana-tozour-QipZr29K7Mw-unsplash_500x500.jpeg
+credit: https://unsplash.com/photos/QipZr29K7Mw
 ---
 
 Hello, I'm Adam. I work on the people side of an awesome tech company, SpiderOak. Here's a short punch list of interesting things about me:
