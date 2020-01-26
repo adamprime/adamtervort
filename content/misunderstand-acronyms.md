@@ -1,6 +1,6 @@
 ---
 title: "Of Course I Understand Your Acronyms!"
-slug: "misunderstand-acronyms"
+slug: "/2019/12/misunderstand-acronyms"
 date: 2019-12-27
 lastmod: 2019-12-27
 draft: false

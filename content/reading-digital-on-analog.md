@@ -1,6 +1,6 @@
 ---
 title: "Reading Digital Content on Analog Medium"
-slug: "reading-digital-on-analog"
+slug: "/2019/12/reading-digital-on-analog"
 date: 2019-12-30T14:18:18-06:00
 lastmod: 2019-12-30T14:18:18-06:00
 draft: false

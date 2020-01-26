@@ -1,6 +1,6 @@
 ---
 title: "Resources for Reading Online Content"
-slug: "reading-online-content"
+slug: "/2020/01/reading-online-content"
 date: 2020-01-04T17:09:41-06:00
 lastmod: 2020-01-04T17:09:41-06:00
 draft: false

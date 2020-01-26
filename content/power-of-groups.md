@@ -1,6 +1,6 @@
 ---
 title: "The Power of Crowds vs the Power of Groups"
-slug: "power-of-groups"
+slug: "/2019/12/power-of-groups"
 date: 2019-12-24
 lastmod: 2019-12-24
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Training the Coward Inside"
-slug: "/training-the-coward"
+slug: "/2019/12/training-the-coward"
 date: 2019-12-20
 lastmod: 2019-12-25
 draft: false

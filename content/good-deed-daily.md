@@ -1,6 +1,6 @@
 ---
 title: "Do a Good Deed Daily"
-slug: "good-deed-daily"
+slug: "/2020/01/good-deed-daily"
 date: 2020-01-20T16:25:28-06:00
 lastmod: 2020-01-20T16:25:28-06:00
 draft: false

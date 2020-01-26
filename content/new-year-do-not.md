@@ -1,6 +1,6 @@
 ---
 title: "A New Year’s Do Not List"
-slug: "new-year-do-not"
+slug: "/2020/01/new-year-do-not"
 date: 2020-01-02T13:32:25-06:00
 lastmod: 2020-01-02T13:32:25-06:00
 draft: false

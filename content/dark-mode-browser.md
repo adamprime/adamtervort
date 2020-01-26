@@ -1,6 +1,6 @@
 ---
 title: "Dark Mode for Your Desktop Browser"
-slug: "dark-mode-browser"
+slug: "/2020/01/dark-mode-browser"
 date: 2020-01-07T19:17:06-06:00
 lastmod: 2020-01-07T19:17:06-06:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Getting Tweets via Email"
-slug: "tweets-via-email"
+slug: "/2019/12/tweets-via-email"
 date: 2019-12-29
 lastmod: 2019-12-29
 draft: false

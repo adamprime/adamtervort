@@ -1,6 +1,6 @@
 ---
 title: "Analog January Challenge"
-slug: "analog-january-challenge"
+slug: "/2020/01/analog-january-challenge"
 date: 2020-01-13T15:37:55-06:00
 lastmod: 2020-01-13T15:37:55-06:00
 draft: false

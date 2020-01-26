@@ -1,6 +1,6 @@
 ---
 title: "Peace with the Present"
-slug: "peace-with-present"
+slug: "/2019/12/peace-with-present"
 date: 2019-12-25
 lastmod: 2019-12-25
 draft: false

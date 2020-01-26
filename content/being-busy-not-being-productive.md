@@ -1,6 +1,6 @@
 ---
 title: "Being Busy is Not Equal to Being Productive"
-slug: "being-busy-not-being-productive"
+slug: "/2019/12/being-busy-not-being-productive"
 date: 2019-12-26
 lastmod: 2019-12-26
 draft: false

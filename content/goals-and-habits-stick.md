@@ -1,6 +1,6 @@
 ---
 title: "Getting Goals and Habits to Stick"
-slug: "goals-and-habits-stick"
+slug: "/2020/01/goals-and-habits-stick"
 date: 2020-01-16T17:13:58-06:00
 lastmod: 2020-01-16T17:13:58-06:00
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "Art and Craftsmanship"
-slug: "art-and-craftsmanship"
+slug: "/2020/01/art-and-craftsmanship/"
 date: 2020-01-17T16:33:14-06:00
 lastmod: 2020-01-17T16:33:14-06:00
 draft: false

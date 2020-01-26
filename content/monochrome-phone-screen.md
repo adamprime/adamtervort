@@ -1,6 +1,6 @@
 ---
 title: "How to Switch your iPhone to Monochrome Mode"
-slug: "monochrome-phone-screen"
+slug: "/2019/12/monochrome-phone-screen"
 date: 2019-12-28
 lastmod: 2019-12-28
 draft: false
