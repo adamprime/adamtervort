@@ -8,11 +8,12 @@ description: "While we all hope life will be smooth and easy we all know that’
 show_in_homepage: true
 show_description: false
 
-tags: [suffering]
-categories: [stoicism]
+tags: [suffering, stoicism]
+categories: []
 
-featured_image: '/images/training-the-coward.jpeg'
-featured_image_preview: '/images/training-the-coward.jpeg'
+image: '/images/training-the-coward.jpeg'
+thumbnail: '/images/training-the-coward.jpeg'
+credit: 'https://unsplash.com/photos/cdhtUbXmXIw' # this is the link to the page the image came from
 
 comment: true
 toc: false
@@ -30,9 +31,6 @@ Today I read [You Must Train the Coward Inside You](https://dailystoic.com/you-m
 
 While we all hope life will be smooth and easy we all know that’s rarely the case. All worthwhile pursuits involve training the coward inside us to “embrace suffering” and push past our “breaking point”. 
 
-<center>❧</center>
-<center><small> *[Photo by Stage 7 Photography](https://unsplash.com/photos/cdhtUbXmXIw)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

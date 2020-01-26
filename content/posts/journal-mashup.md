@@ -4,16 +4,17 @@ date: "2019-08-30"
 url: "/journal-mashup"
 description: "I've been struggling with the Bullet Journal method so I created my own variation. It combines BuJo with the 5 Minute Journal to create a spread of pages for each day."
 tldr: "I've been struggling with the Bullet Journal method so I created my own variation. It combines BuJo with the 5 Minute Journal to create a spread of pages for each day."
-featured_image: "/images/2019-08/journal-mashup.jpg" # default width is 1280, path starts with "img/whatever.ext"
-#thumbnail: "img/2019-08/journal-mashup_500x500.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-08/journal-mashup.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-08/journal-mashup_500x500.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "" # this is the link to the page the image came from 
 categories:
-- Journaling
-- Notebooks
-- Systems
+- 
 tags: 
 - 5 Minute Journal
 - Bullet Journal
+- Journaling
+- Notebooks
+- Systems
 draft: "false" # change to false to publish
 ---
 

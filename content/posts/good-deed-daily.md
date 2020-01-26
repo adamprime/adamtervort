@@ -9,10 +9,12 @@ show_in_homepage: true
 show_description: false
 
 tags: [kindness, good deed, service]
-categories: [kindness, good deed, service]
+# categories: [kindness, good deed, service]
 
-featured_image: '/images/2020-01/good-deed-daily-optimized.jpg' # 1100 px width
-featured_image_preview: '/images/2020-01/good-deed-daily-optimized.jpg' # 560x170 px for preview image
+image: '/images/2020-01/good-deed-daily-optimized.jpg' # 1100 px width
+thumbnail: '/images/2020-01/good-deed-daily-optimized.jpg' # 560x170 px for preview image
+credit: 'https://unsplash.com/photos/NL3cq2B33yw' # this is the link to the page the image came from
+
 
 comment: true
 toc: false
@@ -26,9 +28,6 @@ It changes my day when I have a goal like this top of mind. I set out with the t
 
 A side benefit I’ve discovered is I’m more aware of the good things people around me do. When I see someone going out of their way to be nice or serve someone I feel like I’m meeting a fellow member of a secret club. It feels great to see the good that others do, and helps reaffirm my desire to keep doing good too. Faith in humanity confirmed!
 
-<center>❧</center>
-<center><small> *[Photo by Sandrachile .](https://unsplash.com/photos/NL3cq2B33yw)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

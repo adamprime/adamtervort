@@ -4,10 +4,10 @@ date: "2019-08-15"
 url: "/pen-and-ink"
 description: "I lost a bit of myself when I decided to go all-in on a digital life. Recently I decided to try and restore my analog soul with some pens and notebooks."
 tldr: ""
-featured_image: "/images/2019-08/thomas-martinsen-4H9IuFBIpYM-unsplash.jpg"
-#thumbnail: "img/2019-08/thomas-martinsen-4H9IuFBIpYM-unsplash_500x500.jpeg"
+image: "/images/2019-08/thomas-martinsen-4H9IuFBIpYM-unsplash.jpg"
+thumbnail: "images/2019-08/thomas-martinsen-4H9IuFBIpYM-unsplash_500x500.jpeg"
 credit: "https://unsplash.com/photos/4H9IuFBIpYM"
-categories:
+tags:
 - Handwriting
 - Memories
 - Systems

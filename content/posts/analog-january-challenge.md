@@ -8,11 +8,12 @@ description: "Ready for a challenge? Replace one of your digital habits with an 
 show_in_homepage: true
 show_description: false
 
-tags: [reading]
+tags: [reading, analog]
 categories: [analog]
 
-featured_image: '/images/2020-01/analog-january-challenge-optimized.jpg' # 1100 px width
-featured_image_preview: '/images/2020-01/analog-january-challenge-optimized.jpg' # 560x170 px for preview image
+image: '/images/2020-01/analog-january-challenge-optimized.jpg' # 1100 px width
+thumbnail: '/images/2020-01/analog-january-challenge-optimized.jpg' # 560x170 px for preview image
+credit: "https://unsplash.com/photos/ITxG2yay1ak" # this is the link to the page the image came from 
 
 comment: true
 toc: false
@@ -41,9 +42,6 @@ Cal Newport, author of the great book Digital Minimalism, issued an [“Analog J
 
 I suggest you pick ***one*** of these areas and set a goal. Don’t try and do them all. Pick one, put it on your calendar on a regular basis, and lightly track your progress in your journal, on a goal tracker, or even on a sheet of paper stuck to the fridge. One small change can make a big difference over time if you stick with it. Tracking your progress gives you natural times to look back and see the difference. 
 
-<center>❧</center>
-<center><small> *[Photo by Epicurrence](https://unsplash.com/photos/ITxG2yay1ak)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

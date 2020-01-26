@@ -4,14 +4,15 @@ date: "2019-09-02"
 url: "/scoring-baseball"
 description: "At a recent MLB baseball game I learned how to score the game using paper and pencil. It made the game come alive in a way that I've never experienced before. Highly recommended!"
 tldr: "At a recent MLB baseball game I learned how to score the game using paper and pencil. It made the game come alive in a way that I've never experienced before. Highly recommended!"
-featured_image: "/images/2019-08/baseball-lesly-juarez-gNYQxI5ufII-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-#featured_image_preview: "/images/2019-08/baseball-500-lesly-juarez-gNYQxI5ufII-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-08/baseball-lesly-juarez-gNYQxI5ufII-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+featured_image_preview: "/images/2019-08/baseball-500-lesly-juarez-gNYQxI5ufII-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/gNYQxI5ufII" # this is the link to the page the image came from 
 categories:
-- baseball
+- 
 tags: 
 - pen and paper
 - scoring baseball
+- baseball
 draft: "false" # change to false to publish
 ---
 

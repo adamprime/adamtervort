@@ -4,15 +4,16 @@ date: "2019-09-04"
 url: "/2019/09/digital-world-miss-messages"
 description: "It is important to take the time to have real conversations so we can appreciate the nuance and full spectrum of meaning in the messages we receive. It will likely mean slower communication, but it will be much richer."
 tldr: "It is important to take the time to have real conversations so we can appreciate the nuance and full spectrum of meaning in the messages we receive. It will likely mean slower communication, but it will be much richer."
-featured_image: "/images/2019-09/communication-kelly-sikkema-mdADGzyXCVE-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/2019-09/communication-500-kelly-sikkema-mdADGzyXCVE-unsplash copy.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-09/communication-kelly-sikkema-mdADGzyXCVE-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-09/communication-500-kelly-sikkema-mdADGzyXCVE-unsplash copy.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/mdADGzyXCVE" # this is the link to the page the image came from 
 categories:
+  
+tags: 
+- digital communication
 - communication
 - handwriting
 - context
-tags: 
-- digital communication
 draft: "false" # change to false to publish
 ---
 

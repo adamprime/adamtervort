@@ -4,9 +4,10 @@ url: "/intermittent-fasting"
 date: 2019-01-12T09:44:26-06:00
 draft: false
 description: "IF has helped me lose weight, control snacking, as well as improve my mental clarity and energy levels. Here's my story."
-categories: ["health","fasting"]
+# categories: ["health","fasting"]
 tags: ["health","fasting"]
-featured_image : "/images/if-herbaltea.jpg" # ideal width is 1440 px
+image : "/images/if-herbaltea.jpg" # ideal width is 1440 px
+thumbnail : "/images/if-herbaltea.jpg" # ideal width is 1440 px
 ---
 
 Back in November I ran across an excellent article on Medium about [How to Configure Your iPhone to Work for You, Not Against You](https://betterhumans.coach.me/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8?gi=7d19619405ff). I loved it, and spent the better part of an evening implementing many of the recommendations on my phone. There were several recommended apps that I had never heard of that I set off to explore, including one called [‎Zero - Fasting Tracker](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8). I downloaded it and started to do some research on Intermittent Fasting, the practice the app helps you track.

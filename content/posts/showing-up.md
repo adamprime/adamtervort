@@ -8,11 +8,12 @@ description: "Each time we show up is another vote we cast towards the future ve
 show_in_homepage: true
 show_description: false
 
-tags: [habits, art]
-categories: [practice]
+tags: [habits, art, practice]
+categories: []
 
-featured_image: '/images/showing-up-optimized.jpg'
-featured_image_preview: '/images/showing-up-optimized.jpg'
+image: '/images/showing-up-optimized.jpg'
+thumbnail: '/images/showing-up-optimized.jpg'
+credit: 'https://unsplash.com/photos/Phmg7twgYZc' # this is the link to the page the image came from
 
 comment: true
 toc: false
@@ -32,9 +33,6 @@ I think something else happens when we show up consistently. We gradually conque
 
 Start small. Tie your practice to something you already do consistently. Keep track of how you show up. The progress will come in much bigger ways that you anticipate. 
 
-<center>❧</center>
-<center><small> *[Photo by Tyson Dudley on Unsplash](https://unsplash.com/photos/Phmg7twgYZc)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

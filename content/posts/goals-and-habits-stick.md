@@ -9,10 +9,11 @@ show_in_homepage: true
 show_description: false
 
 tags: [goals, habits]
-categories: [goals]
+categories: []
 
-featured_image: '/images/2020-01/goals-and-habits-stick-optimized.jpg' # 1100 px width
-featured_image_preview: '/images/2020-01/goals-and-habits-stick-optimized.jpg' # 560x170 px for preview image
+image: '/images/2020-01/goals-and-habits-stick-optimized.jpg' # 1100 px width
+thumbnail: '/images/2020-01/goals-and-habits-stick-optimized.jpg' # 560x170 px for preview image
+credit: 'https://unsplash.com/photos/IuLgi9PWETU'
 
 comment: true
 toc: false
@@ -39,9 +40,6 @@ Here are a couple of the keys that have made a difference for me:
 
 Our daily actions determine who we will become. Use small, simple steps to help you become the person you want to be.
 
-<center>❧</center>
-<center><small> *[Photo by Danielle MacInnes](https://unsplash.com/photos/IuLgi9PWETU)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

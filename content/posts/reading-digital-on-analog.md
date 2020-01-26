@@ -8,11 +8,12 @@ description: "How do you read web content without using a screen? Here's the sol
 show_in_homepage: true
 show_description: false
 
-tags: [kindle, instapaper]
-categories: [reading]
+tags: [kindle, instapaper, reading]
+categories: []
 
-featured_image: '/images/2019-12/reading-digital-on-analog-optimized.jpg' # 1100 px width
-featured_image_preview: 'images/2019-12/reading-digital-on-analog-optimized.jpg' # 560x170 px for preview image
+image: '/images/2019-12/reading-digital-on-analog-optimized.jpg' # 1100 px width
+thumbnail: 'images/2019-12/reading-digital-on-analog-optimized.jpg' # 560x170 px for preview image
+credit: 'https://unsplash.com/photos/fnV7HNrC33k' # this is the link to the page the image came from
 
 comment: true
 toc: false
@@ -48,9 +49,6 @@ This is the fun part. :) Each digest of articles sent from Instapaper is dated. 
 
 There are other methods to do this. [Calibre](https://calibre-ebook.com/), the free ebook software, has an RSS feed feature and a way to send content to Kindles. Pocket also has a similar “send to Kindle” function. I’ve used Instapaper for many years and enjoy their app design so that’s what I went with.
 
-<center>❧</center>
-<center><small> *[Photo by Jingda Chen](https://unsplash.com/photos/fnV7HNrC33k)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

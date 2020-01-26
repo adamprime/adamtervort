@@ -8,11 +8,11 @@ description: "During the holiday season I think a lot about peace and the ways w
 show_in_homepage: true
 show_description: false
 
-tags: [peace, holiday]
-categories: [family]
+tags: [peace, holiday, family]
+categories: []
 
-featured_image: '/images/2019-12/peace-with-present.jpg'
-featured_image_preview: '/images/2019-12/peace-with-present-500.jpg'
+image: '/images/2019-12/peace-with-present.jpg'
+thumbnail: '/images/2019-12/peace-with-present-500.jpg'
 
 comment: true
 toc: false
@@ -30,9 +30,6 @@ Peace in our life can come from many sources but it always requires time and an 
 
 *Hat tip to [Ryan Holiday](https://dailydad.com/why-are-you-rushing/) and [Seth Godin](https://seths.blog/2019/12/toward-peace/) for the inspiration.*
 
-<center>❧</center>
-<center><small> *[Photo by SOMEBODY](https://unsplash.com/linklinklink)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

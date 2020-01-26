@@ -1,70 +1,60 @@
+# Site settings
+baseurl = "https://adamtervort.com/"
 title = "Adam Tervort"
-baseURL = "https://adamtervort.com"
-languageCode = "en-us"
-theme = "ananke"
-# themesDir = "../.."
+paginate = 12
+buildFuture = true
+theme = "story"
+languageCode = "en-US"
 
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-128042666-5"
-enableRobotsTXT = true
-disqusShortname = "kungpaoadam"  
 
-[menu]                                                #### Menu Info
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts"
-    weight = 1
+[[menu.social]]
+  name = "Twitter"
+  title = "fab fa-twitter-square"
+  url = "https://twitter.com/adamtervort"
 
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags"
-    weight = 2
+[[menu.social]]
+  name = "LinkedIn"
+  title = "fab fa-linkedin"
+  url = "https://linkedin.com/in/adam-tervort"
 
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories"
-    weight = 3
+[[menu.main]]
+  name = "Archives"
+  title = "Archives"
+  url = "/archives/"
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-    weight = 4
+[[menu.main]]
+  name = "About"
+  title = "About"
+  url = "/about/"
 
-   [[menu.main]]
-    identifier = "Contact"
-    name = "Contact"
-    url = "/contact"
-    weight = 5
+[[menu.main]]
+  name = "Contact"
+  title = "Contact"
+  url = "/contact/"  
 
-[sitemap]
-  changefreq = "daily"
-  priority = 0.5
-  filename = "sitemap.xml"
+[[menu.main]]
+  name = "Categories"
+  title = "Categories"
+  url = "/tags/"
+
+[[menu.main]]
+  name = "Courses"
+  title = "Courses"
+  url = "https://learn.hammock.marketing/"   
 
 [params]
-  favicon = ""
-  description = "Mindful writing on work and productivity"
-  facebook = ""
-  twitter = "https://twitter.com/adamtervort"
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = "https://linkedin.com/in/adam-tervort"
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/small-successes.jpg"
-  recent_posts_number = 10
+  author = "Adam Tervort"
+  twitter = "adamtervort"
+  classes = []
+  mailchimp = "https://adamtervort.us20.list-manage.com/subscribe?u=65d2ac8fd182c7884008dd22b&id=9460147e2c"
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
 
 [Permalinks]                                          #### Permalinks Info (https://gohugo.io/content-management/urls/#permalinks)
   posts = ":year/:month/:filename"

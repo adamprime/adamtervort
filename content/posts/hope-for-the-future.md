@@ -4,16 +4,17 @@ date: "2019-09-07"
 url: "/2019/09/hope-for-the-future"
 description: "While the outlook for our global environmental situation is dire, we may have a last, best hope in the children around us."
 tldr: "While the outlook for our global environmental situation is dire, we may have a last, best hope in the children around us."
-featured_image: "/images/2019-09/hope-jenn-evelyn-ann-UYDoE_AyJQs-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/2019-09/hope-500-jenn-evelyn-ann-UYDoE_AyJQs-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-09/hope-jenn-evelyn-ann-UYDoE_AyJQs-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-09/hope-500-jenn-evelyn-ann-UYDoE_AyJQs-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/UYDoE_AyJQs" # this is the link to the page the image came from 
 categories:
+- 
+tags: 
+- recycling
 - hope
 - environment
 - future
 - leadership
-tags: 
-- recycling
 draft: "false" # change to false to publish
 ---
 

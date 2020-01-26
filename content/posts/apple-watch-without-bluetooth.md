@@ -4,14 +4,15 @@ date: "2019-09-05"
 url: "/2019/09/apple-watch-without-bluetooth"
 description: "I wear an Apple Watch for the convenience, but I’m also very concerned with how terrible Bluetooth is from a security perspective. I wanted to find out if it's possible to use the watch without the bluetooth."
 tldr: "I wear an Apple Watch for the convenience, but I’m also very concerned with how terrible Bluetooth is from a security perspective. I wanted to find out if it's possible to use the watch without the bluetooth."
-featured_image: "/images/2019-09/applewatch-chuttersnap-iFPBRwZ4I-M-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-#thumbnail: "img/2019-09/applewatch-500chuttersnap-iFPBRwZ4I-M-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-09/applewatch-chuttersnap-iFPBRwZ4I-M-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-09/applewatch-500chuttersnap-iFPBRwZ4I-M-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/iFPBRwZ4I-M" # this is the link to the page the image came from 
 categories:
-- bluetooth
-- security
+
 tags: 
 - apple watch
+- bluetooth
+- security
 draft: "false" # change to false to publish
 ---
 

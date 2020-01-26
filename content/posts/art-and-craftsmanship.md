@@ -11,8 +11,8 @@ show_description: false
 tags: [art, craftsmanship]
 categories: [art, craftsmanship]
 
-featured_image: '/images/2020-01/art-and-craftsmanship-optimized.jpg' # 1100 px width
-featured_image_preview: '/images/2020-01/art-and-craftsmanship-optimized.jpg' # 560x170 px for preview image
+image: '/images/2020-01/art-and-craftsmanship-optimized.jpg' # 1100 px width
+thumbnail: '/images/2020-01/art-and-craftsmanship-optimized.jpg' # 560x170 px for preview image
 
 comment: true
 toc: false
@@ -36,9 +36,6 @@ It’s a grueling process to tune a whole piano. Getting the notes to sound in t
 
 No matter what kind of work we do, we have the chance to develop craftsmanship. There's art in everything.
 
-<center>❧</center>
-<center><small> *[Photo by Sucrebrut](https://unsplash.com/photos/xpeyC6vdDdc)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

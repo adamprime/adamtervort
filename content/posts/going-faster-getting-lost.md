@@ -7,7 +7,9 @@ url = "/going-faster-getting-lost"
 description = "I used to take long rides to find new ways to get home from work. I learned some important prinicples about life on those rides."
 categories = ["First Principles"] # in quotes, comma separated
 tags = ["go faster","getting lost"] # in quotes, comma separated
-featured_image = "/images/lost-optimized.jpg" # ideal width is 1440 px
+image = "/images/lost-optimized.jpg" # ideal width is 1440 px
+thumbnail = "/images/lost-optimized.jpg"
+credit = "https://unsplash.com/photos/xRdZIt66FSE"
 +++
 Seth Godin talked about going faster in a [recent post](https://seths.blog/2019/09/if-youre-lost-go-faster/). He said, “Going faster increase the chances you’ll find a landmark and become unlost.” 
 

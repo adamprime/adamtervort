@@ -5,9 +5,11 @@ date = "2019-10-14"
 draft = false
 url = "/obstacles-the-way"
 description = "Life throws all kinds of problems at us. We always have a choice how we will react."
-categories = ["stoicism"] # in quotes, comma separated
-tags = ["choices","Marcus Aurelius"] # in quotes, comma separated
-featured_image = "/images/obstacles.jpg" # ideal width is 1440 px
+categories = [] # in quotes, comma separated
+tags = ["choices", "Marcus Aurelius", "stoicism"] # in quotes, comma separated
+image = "/images/obstacles.jpg" # ideal width is 1440 px
+thumbnail = "/images/obstacles.jpg" # ideal width is 1440 px
+credit = 'https://unsplash.com/photos/ZAmXj9CqG-4' # this is the link to the page the image came from
 +++
 
 It’s the nature of being human that we will have bad days. And sometimes bad weeks. Or bad months. Maybe even bad years. 
@@ -22,9 +24,6 @@ As Marcus Aurelius said, “Our actions may be impeded but there can be no imped
 
 Whatever is standing in your way, use it to help you move forward.
 
-<center>❧</center>
-<center><small> *[Photo by Michael Rosner-Hyman on Unsplash](https://unsplash.com/photos/ZAmXj9CqG-4)* </small>
-
 ---
-<center>
-📨Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

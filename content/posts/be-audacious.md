@@ -4,15 +4,16 @@ date: "2019-09-01"
 url: "/2019/09/be-audacious"
 description: "Holding back is an easy thing to do. There are times when it’s smart to hold back, watch a situation unfold, and be conservative in your approach. That’s an important skill to develop, but I think the opposite skill is just as important and much harder to learn."
 tldr: "Holding back is an easy thing to do. There are times when it’s smart to hold back, watch a situation unfold, and be conservative in your approach. That’s an important skill to develop, but I think the opposite skill is just as important and much harder to learn."
-featured_image: "/images/2019-09/audacious-jeremy-bishop-Q5ZjqF6Wd3k-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-#thumbnail: "img/2019-09/audacious-500-jeremy-bishop-Q5ZjqF6Wd3k-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-09/audacious-jeremy-bishop-Q5ZjqF6Wd3k-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-09/audacious-500-jeremy-bishop-Q5ZjqF6Wd3k-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/Q5ZjqF6Wd3k" # this is the link to the page the image came from 
 categories:
+
+tags: 
+- bias towards action
 - Strategy
 - Success
 - Action
-tags: 
-- bias towards action
 draft: "false" # change to false to publish
 ---
 

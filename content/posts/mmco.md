@@ -3,8 +3,9 @@ title: "Fundraising for a local nonprofit is the worst"
 date: 2018-09-04
 url: "/mmco"
 image: mmco.jpg
-categories: ["non-profit"]
-featured_image: "/images/mmco.jpg"
+tags: ["non-profit"]
+image: "/images/mmco.jpg"
+thumbnail: "/images/mmco.jpg"
 ---
 
 Over the past 11 months I have served as the president of the board of a small 501(3)c nonprofit in my hometown, the [Many Moods Choir and Orchestra](https://manymoods.xyz). Each Christmas season we perform two free concerts for the community. The orchestra and choir are all volunteers who give up time on during for months worth of Saturdays to rehearse together. (This doesn't include all the personal practice time involved. The music we play is hard! I'm currently nursing sore arms, a sure symptom of a string bass player who plays much more vigorously, and less frequently, than he should.)

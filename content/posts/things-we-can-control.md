@@ -5,9 +5,11 @@ date = "2019-10-21"
 draft = false
 url = "/things-we-can-control"
 description = "So much of life is out of our control, but the most important things are within our grasp and we have full access to."
-categories = ["stoicism"] # in quotes, comma separated
-tags = ["control","jazz"] # in quotes, comma separated
-featured_image = "/images/what-we-can-control-optimized.jpg" # ideal width is 1440 px
+categories = [] # in quotes, comma separated
+tags = ["control","jazz","stoicism"] # in quotes, comma separated
+image = "/images/what-we-can-control-optimized.jpg" # ideal width is 1440 px
+thumbnail = "/images/what-we-can-control-optimized.jpg" # ideal width is 1440 px
+credit = 'https://unsplash.com/photos/vSws0g1KjxI' # this is the link to the page the image came from
 +++
 
 As I write this I’m listening to three student jazz groups playing. (I have one child in each group so I sit in between the three rehearsal rooms so I can catch snatches of each group as they play.) 
@@ -32,9 +34,6 @@ Pretty much everything else is outside of our control. But look at all we *do* h
 
 I hope the young man decides that he is going to go forward and grasp this opportunity. This could be an important turning point for him. We rarely have control of the auditions in life but we do have control of our actions after. Taking control of those things we can control makes all the difference.
 
-<center>❧</center>
-<center><small> *[Photo by Miti on Unsplash](https://unsplash.com/photos/vSws0g1KjxI)* </small>
-
 ---
-<center>
-📨Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

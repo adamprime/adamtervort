@@ -8,11 +8,12 @@ description: "It can be funny when acronyms are misunderstood. Just make sure it
 show_in_homepage: true
 show_description: false
 
-tags: [internet, language]
-categories: [communication]
+tags: [internet, language, communication]
+categories: []
 
-featured_image: '/images/2019-12/misunderstand-acronyms.jpg' # 1100 px width
-featured_image_preview: 'images/2019-12/misunderstand-acronyms-500.jpg' # 560x170 px for preview image
+image: '/images/2019-12/misunderstand-acronyms.jpg' # 1100 px width
+thumbnail: 'images/2019-12/misunderstand-acronyms-500.jpg' # 560x170 px for preview image
+credit: 'https://unsplash.com/photos/EP_OHkgn1JI' # this is the link to the page the image came from
 
 comment: true
 toc: false
@@ -30,9 +31,6 @@ All of this is mostly harmless and kind of fun. Just make sure that acronyms don
 
 *HT to [Stephan Pastis](https://www.gocomics.com/pearlsbeforeswine/2019/12/26) and [Studio C](https://www.youtube.com/watch?v=JYS1gm8tZSM) for the inspiration.*
 
-<center>❧</center>
-<center><small> *[Photo by Jack Hamilton](https://unsplash.com/photos/EP_OHkgn1JI)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

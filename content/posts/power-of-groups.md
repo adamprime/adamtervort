@@ -8,11 +8,12 @@ description: "It’s important that you and I share our thoughts and experiences
 show_in_homepage: true
 show_description: false
 
-tags: [opinions, teams]
-categories: [groups]
+tags: [opinions, teams, groups]
+categories: []
 
-featured_image: '/images/2019-12/power-of-groups.jpg'
-featured_image_preview: ''
+image: '/images/2019-12/power-of-groups.jpg'
+thumbnail: '/images/2019-12/power-of-groups.jpg'
+credit: 'https://unsplash.com/photos/PMxT0XtQ--A' # this is the link to the page the image came from
 
 comment: true
 toc: false
@@ -31,11 +32,6 @@ It’s important that you and I share our thoughts and experiences with others. 
 
 Hat tip to [James Hatch](https://gen.medium.com/my-semester-with-the-snowflakes-888285f0e662?) and [Rohan Rajiv](https://alearningaday.blog/2019/12/23/yelp-and-tripadvisor/) for the inspiration.
 
-
-
-<center>❧</center>
-<center><small> *[Photo by Jacek Dylag](https://unsplash.com/photos/PMxT0XtQ--A)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

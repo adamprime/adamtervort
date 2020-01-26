@@ -8,11 +8,12 @@ description: "Being busy doesn’t help you get more done or mean that you’re 
 show_in_homepage: true
 show_description: false
 
-tags: [business]
+tags: [business, productivity]
 categories: [productivity]
 
-featured_image: '/images/2019-12/being-busy-not-being-productive.jpg'
-featured_image_preview: '/images/2019-12/being-busy-not-being-productive-500.jpg'
+image: '/images/2019-12/being-busy-not-being-productive.jpg'
+thumbnail: '/images/2019-12/being-busy-not-being-productive-500.jpg'
+credit: 'https://unsplash.com/photos/z_S5m-dqADA'
 
 comment: true
 toc: false
@@ -32,9 +33,6 @@ Being busy doesn’t help you get more done or mean that you’re important. Str
 
 *Hat tip to [Scott H. Young](https://www.scotthyoung.com/blog/2019/12/02/point-of-productivity/) and [Seth Godin](https://seths.blog/2019/11/busy-is-a-choice-productive-is-a-skill/) for the inspiration.*
 
-<center>❧</center>
-<center><small> *[Photo by Karen Lau](https://unsplash.com/photos/z_S5m-dqADA)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

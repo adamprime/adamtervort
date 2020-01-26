@@ -4,13 +4,14 @@ date: "2019-10-28"
 url: "/2019/10/out-in-nature"
 description: "I don’t get to be out in nature like this often enough. I’m glad I get to be here tonight."
 tldr: ""
-featured_image: "/images/2019-10/nature2-optimized.jpg" # default width is 1280, path starts with "img/whatever.ext"
-#thumbnail: "img/2019-10/nature2-optimized_500.jpg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-10/nature2-optimized.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-10/nature2-optimized_500.jpg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/ndN00KmbJ1c" # this is the link to the page the image came from 
 categories:
-- nature
+- 
 tags: 
 - camping
+- nature
 draft: "false" # change to false to publish
 ---
 

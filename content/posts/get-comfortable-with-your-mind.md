@@ -4,14 +4,15 @@ date: "2019-09-10"
 url: "/2019/09/get-comfortable-with-your-mind"
 description: "Spend more time alone with your mind. An idle mind is the fertile ground ideas grow in."
 tldr: "Spend more time alone with your mind. An idle mind is the fertile ground ideas grow in."
-featured_image: "/images/2019-09/boredom-joshua-earle-GO2atRL73uE-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/2019-09/boredom-500-joshua-earle-GO2atRL73uE-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-09/boredom-joshua-earle-GO2atRL73uE-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-09/boredom-500-joshua-earle-GO2atRL73uE-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/GO2atRL73uE" # this is the link to the page the image came from 
 categories:
-- meditation
-- boredom
+- 
 tags: 
 - Oak Meditation App
+- meditation
+- boredom
 draft: "false" # change to false to publish
 ---
 

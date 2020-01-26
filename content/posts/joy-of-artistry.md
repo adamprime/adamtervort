@@ -4,16 +4,17 @@ date: "2019-09-08"
 url: "/2019/09/joy-of-artistry"
 description: "Seeing the art made by a master in their field is inspiring and gives us hope that we too can strive and create something beautiful. A master jazz pianist reaffirmed this for me today."
 tldr: "Seeing the art made by a master in their field is inspiring and gives us hope that we too can strive and create something beautiful. A master jazz pianist reaffirmed this for me today."
-featured_image: "/images/2019-09/artistry-andrik-langfield-ITQVgbjG-q4-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/2019-09/artistry-500-andrik-langfield-ITQVgbjG-q4-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-09/artistry-andrik-langfield-ITQVgbjG-q4-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-09/artistry-500-andrik-langfield-ITQVgbjG-q4-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/ITQVgbjG-q4" # this is the link to the page the image came from 
 categories:
-- art
-- practice
-- mastery
+- 
 tags: 
 - jazz
 - piano
+- art
+- practice
+- mastery
 draft: "false" # change to false to publish
 ---
 

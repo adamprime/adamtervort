@@ -4,15 +4,16 @@ date: "2019-09-11"
 url: "/2019/09/you-are-a-mashup-of-choices"
 description: "Most of the convenience our devices give us is garbage. I’ll never be bored enough to get the benefits of boredom if I’m never more than a moment away from more content."
 tldr: "Most of the convenience our devices give us is garbage. I’ll never be bored enough to get the benefits of boredom if I’m never more than a moment away from more content."
-featured_image: "/images/2019-09/mashup-robert-anasch-SPHz3KKquKk-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-#thumbnail: "img/2019-09/mashup-500-robert-anasch-SPHz3KKquKk-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-09/mashup-robert-anasch-SPHz3KKquKk-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-09/mashup-500-robert-anasch-SPHz3KKquKk-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/SPHz3KKquKk" # this is the link to the page the image came from 
 categories:
-- focus
-- creativity
+- 
 tags: 
 - devices
 - context switching
+- focus
+- creativity
 draft: "false" # change to false to publish
 ---
 

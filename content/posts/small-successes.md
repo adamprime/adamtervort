@@ -5,9 +5,11 @@ date = "2019-12-22"
 draft = false
 url = "/small-successes"
 description = "Getting started is important. Perhaps more important is setting up for long term success by successfully completing small batches of work so that the act of work leaves you filled with success."
-categories = ["work"] # in quotes, comma separated
-tags = ["pomodoro"] # in quotes, comma separated
-featured_image = "/images/small-successes.jpg" # ideal width is 1440 px
+categories = [] # in quotes, comma separated
+tags = ["pomodoro","work"] # in quotes, comma separated
+image = "/images/small-successes.jpg" # ideal width is 1440 px
+thumbnail = "/images/small-successes.jpg" # ideal width is 1440 px
+credit = 'https://unsplash.com/photos/-87JyMb9ZfU' # this is the link to the page the image came from
 +++
 
 One of the hardest aspects of work for me is when I know I have a hard task to do. I’ve found some psychological trickery that works well on me that might be useful for you too.
@@ -20,9 +22,6 @@ There is a lot of interesting research into why a technique like this, and I con
 
 Hat tip to [David Cain](https://www.raptitude.com/2019/12/how-to-make-meditation-ten-times-easier/) and [Tim Ferriss](https://tim.blog/2019/12/18/make-before-you-manage/) who wrote great posts this week on subjects that reminded me of this.
 
-<center>❧</center>
-<center><small> *[Photo by Joshua Earle](https://unsplash.com/photos/-87JyMb9ZfU)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

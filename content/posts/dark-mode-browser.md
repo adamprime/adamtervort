@@ -8,11 +8,12 @@ description: "Here's a magic browser extension that puts any website in dark mod
 show_in_homepage: true
 show_description: false
 
-tags: [browser extensions]
-categories: [dark mode]
+tags: [browser extensions, dark mode]
+categories: []
 
-featured_image: '/images/2020-01/dark-mode-browser-optimized.png' # 1100 px width
-featured_image_preview: '/images/2020-01/dark-mode-browser-optimized.png' # 560x170 px for preview image
+image: '/images/2020-01/dark-mode-browser-optimized.png' # 1100 px width
+thumbnail: '/images/2020-01/dark-mode-browser-optimized.png' # 560x170 px for preview image
+credit: ''
 
 comment: true
 toc: false
@@ -31,5 +32,5 @@ It’s compatible with Chrome and Chromium-based browsers (including my default,
 One of the things I like most about Dark Reader is the ability to create your own whitelist of sites. I like [Startpage’s dark theme](https://www.startpage.com/?r=6434), so I put startpage.com on the list of sites Dark Reader should not activate on. Some websites detect your operating system’s dark mode preference and automatically renders a dark mode version. Sites like that I also whitelist. Once in a while there will be a site that just doesn’t look right or has elements that Dark Mode doesn’t render correctly. Turning it off for that page is very easy. I’ve found, however, that about 95% of websites I visit look great with Dark Reader enabled. 
 
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

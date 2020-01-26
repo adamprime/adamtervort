@@ -1,0 +1,77 @@
+title = "Adam Tervort"
+baseURL = "https://adamtervort.com"
+languageCode = "en-us"
+theme = "ananke"
+# themesDir = "../.."
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-128042666-5"
+enableRobotsTXT = true
+disqusShortname = "kungpaoadam"  
+
+[menu]                                                #### Menu Info
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 4
+
+   [[menu.main]]
+    identifier = "Contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 5
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Mindful writing on work and productivity"
+  facebook = ""
+  twitter = "https://twitter.com/adamtervort"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = "https://linkedin.com/in/adam-tervort"
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/small-successes.jpg"
+  recent_posts_number = 10
+
+[Permalinks]                                          #### Permalinks Info (https://gohugo.io/content-management/urls/#permalinks)
+  posts = ":year/:month/:filename"
+
+[privacy]                                             #### Privacy Info (https://gohugo.io/about/hugo-and-gdpr/)
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+
+  [privacy.youtube]
+    privacyEnhanced = true

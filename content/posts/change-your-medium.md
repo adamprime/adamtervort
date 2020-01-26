@@ -4,14 +4,15 @@ date: "2019-09-12"
 url: "/2019/09/change-your-medium"
 description: "Writing has been a burden for me for years. I recently found a method that makes the process so much easier."
 tldr: "Writing has been a burden for me for years. I recently found a method that makes the process so much easier."
-featured_image: "/images/2019-09/changeyourmedium-patrick-fore-0gkw_9fy0eQ-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-#thumbnail: "/img/2019-09/changeyourmedium-500-patrick-fore-0gkw_9fy0eQ-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-09/changeyourmedium-patrick-fore-0gkw_9fy0eQ-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "/images/2019-09/changeyourmedium-500-patrick-fore-0gkw_9fy0eQ-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/0gkw_9fy0eQ" # this is the link to the page the image came from 
 categories:
-- writing
-- pen and paper
+
 tags: 
 - blogging
+- writing
+- pen and paper
 draft: "false" # change to false to publish
 ---
 

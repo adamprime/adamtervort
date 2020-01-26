@@ -8,11 +8,12 @@ description: "As you take time to set goals, consider adding some “Do Not” g
 show_in_homepage: true
 show_description: false
 
-tags: [simplicity, focus]
-categories: [goals]
+tags: [simplicity, focus, goals]
+categories: []
 
-featured_image: '/images/2020-01/new-year-do-not-optimized.jpg' # 1100 px width
-featured_image_preview: '/images/2020-01/new-year-do-not-optimized.jpg' # 560x170 px for preview image
+image: '/images/2020-01/new-year-do-not-optimized.jpg' # 1100 px width
+thumbnail: '/images/2020-01/new-year-do-not-optimized.jpg' # 560x170 px for preview image
+credit: 'https://unsplash.com/photos/nDd3dIkkOLo' # this is the link to the page the image came from
 
 comment: true
 toc: false
@@ -30,9 +31,6 @@ Simplify. Focus. Single task. Concentrate exclusively on the work you are doing 
 
 Here’s to a happy, productive, and peaceful new year!
 
-<center>❧</center>
-<center><small> *[Photo by NordWood Themes](https://unsplash.com/photos/nDd3dIkkOLo)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

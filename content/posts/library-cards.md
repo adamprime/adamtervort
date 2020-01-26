@@ -4,14 +4,15 @@ date: "2019-09-09"
 url: "/2019/09/library-cards"
 description: "September is Library Card Sign-up Month. If you don’t have one yet, please seek out your local library and get a card. And take a friend!"
 tldr: "September is Library Card Sign-up Month. If you don’t have one yet, please seek out your local library and get a card. And take a friend!"
-featured_image: "/images/2019-09/libraries-jessica-ruscello-OQSCtabGkSY-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-thumbnail: "img/2019-09/libraries-500-jessica-ruscello-OQSCtabGkSY-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-09/libraries-jessica-ruscello-OQSCtabGkSY-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-09/libraries-500-jessica-ruscello-OQSCtabGkSY-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/OQSCtabGkSY" # this is the link to the page the image came from 
 categories:
-- libraries
+- 
 tags: 
 - taxes
 - citizenship
+- libraries
 draft: "false" # change to false to publish
 ---
 

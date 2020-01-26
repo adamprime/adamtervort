@@ -8,11 +8,12 @@ description: "A lot of the visual fun of using a device is gone when there’s n
 show_in_homepage: true
 show_description: false
 
-tags: [accessibility, black and white]
-categories: [productivity]
+tags: [accessibility, black and white, productivity]
+categories: []
 
-featured_image: '/images/2019-12/monochrome-phone-screen.png' # 1100 px width
-featured_image_preview: 'images/2019-12/monochrome-phone-screen.png' # 560x170 px for preview image
+image: '/images/2019-12/monochrome-phone-screen.png' # 1100 px width
+thumbnail: 'images/2019-12/monochrome-phone-screen.png' # 560x170 px for preview image
+credit: 'https://blog.mozilla.org/internetcitizen/files/2018/02/mozilla_blog-post_visuals_grayscale_phone.png)' # this is the link to the page the image came from
 
 comment: true
 toc: false
@@ -33,9 +34,6 @@ Here’s how to set it up:
 
 *HT to the [Center for Humane Tech](https://humanetech.com/resources/take-control/) and [Megan Holstein](https://medium.com/better-humans/how-to-make-your-iphone-black-and-white-and-why-you-should-42e70deb92c7) for the inspiration.*
 
-<center>❧</center>
-<center><small> *[Photo by Mozilla](https://blog.mozilla.org/internetcitizen/files/2018/02/mozilla_blog-post_visuals_grayscale_phone.png)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

@@ -8,11 +8,12 @@ description: "I love useful tweets but hate getting on Twitter. Here's how to ge
 show_in_homepage: true
 show_description: false
 
-tags: [twitter, email]
-categories: [productivity]
+tags: [twitter, email, productivity]
+categories: []
 
-featured_image: '/images/2019-12/tweets-via-email/tweets-via-email-optimized.jpg' # 1100 px width
-featured_image_preview: '/images/2019-12/tweets-via-email/tweets-via-email-optimized.jpg' # 560x170 px for preview image
+image: '/images/2019-12/tweets-via-email/tweets-via-email-optimized.jpg' # 1100 px width
+thumbnail: '/images/2019-12/tweets-via-email/tweets-via-email-optimized.jpg' # 560x170 px for preview image
+credit: '' # this is the link to the page the image came from
 
 comment: true
 toc: false
@@ -25,10 +26,12 @@ I really like Twitter for the way it allows you to connect with thought leaders.
 In this example I’m going to set up a digest of tweets from Adam Grant ([@AdamMGrant](https://twitter.com/AdamMGrant)) and James Clear ([@JamesClear](https://twitter.com/JamesClear)). These two are authors and speakers who tweet regularly and have long form writing that I enjoy. Both are also in my RSS feed, but because their writing is usually long form there’s generally a bit of time between articles. I think both are people who put effort into making their tweets valuable, which is why I’d like to still read them, but on my schedule and from my inbox.
 
 ## Preparation
+
 1. I’m using Zapier for this. You’ll need a free Zapier account which will be connected to your Twitter account and your Gmail account. If you don’t feel comfortable giving Zapier that type of permission then this workflow won’t work for you. You can find details on how Zapier handles 3rd party account credentials [here](https://zapier.com/help/account/data-management/data-privacy-at-zapier).
 2. You’ll need to create a list on Twitter of the accounts you want a digest of.
 
-## Setting up the list 
+## Setting up the list
+
 In your Twitter account go to the Lists page. (You can find this in the sidebar or by going to https://twitter.com/YOURUSERNAME/lists.) Click the button at the top right to create a new list, then enter a name and description for the list. I always make my lists private, but both types of lists will work.
 
 ![setting up list on twitter](/images/2019-12/tweets-via-email/tweets-via-email-1.png)
@@ -38,6 +41,7 @@ Next add the accounts you want a digest from as “members” of the list. Click
 ![adding members to twitter list](/images/2019-12/tweets-via-email/tweets-via-email-2.png)
 
 ## Setting up Zapier’s integration
+
 You can see an overview of how this Zap (the name Zapier gives their integrations) works [on this page](https://zapier.com/apps/gmail/integrations/twitter/14730/get-a-digest-of-tweets-from-a-list-in-gmail-on-your-own-schedule). Click the Try It button and you will be prompted to log in to your Zapier account.
 
 Next, you’ll need to allow Zapier to connect to your Twitter account. Once that’s done, select your Twitter account from the list and click Continue. Then choose the list you created in the step above and click Continue.
@@ -66,9 +70,6 @@ If you run into any issues, check out the Guide in the right sidebar of the Zap 
 
 ![finding the zapier guide in the sidebar](/images/2019-12/tweets-via-email/tweets-via-email-6.png)
 
-<center>❧</center>
-<center><small> *[Photo by SOMEBODY](https://unsplash.com/linklinklink)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*

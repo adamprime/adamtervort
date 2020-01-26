@@ -4,14 +4,15 @@ date: "2019-09-06"
 url: "/2019/09/recognizing-bias"
 description: "Examining our feelings can help us to understand where our comfort zone ends. That’s where our work begins. Self reflection is the first step to creating a more inclusive and vibrant team."
 tldr: "Examining our feelings can help us to understand where our comfort zone ends. That’s where our work begins. Self reflection is the first step to creating a more inclusive and vibrant team."
-featured_image: "/images/2019-09/bias-jason-zook-n2RrD7Aew-Q-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
-#thumbnail: "img/2019-09/bias-500-jason-zook-n2RrD7Aew-Q-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
+image: "/images/2019-09/bias-jason-zook-n2RrD7Aew-Q-unsplash.jpg" # default width is 1280, path starts with "img/whatever.ext"
+thumbnail: "images/2019-09/bias-500-jason-zook-n2RrD7Aew-Q-unsplash.jpeg" # default size should be 500x500, path starts with "img/whatever.ext"
 credit: "https://unsplash.com/photos/n2RrD7Aew-Q" # this is the link to the page the image came from 
 categories:
-- teams
-- leadership
+- 
 tags: 
 - bias
+- teams
+- leadership
 draft: "false" # change to false to publish
 ---
 

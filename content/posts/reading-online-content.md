@@ -8,11 +8,12 @@ description: "Reading lots of articles in a web browser is a pain. Here's what I
 show_in_homepage: true
 show_description: false
 
-tags: [instapaper, pocket]
-categories: [reading]
+tags: [instapaper, pocket, reading]
+categories: []
 
-featured_image: '/images/2020-01/reading-online-content-optimized.jpg' # 1100 px width
-featured_image_preview: '/images/2020-01/reading-online-content-optimized.jpg' # 560x170 px for preview image
+image: '/images/2020-01/reading-online-content-optimized.jpg' # 1100 px width
+thumbnail: '/images/2020-01/reading-online-content-optimized.jpg' # 560x170 px for preview image
+credit: 'https://www.flickr.com/photos/johanl/4995944368' # this is the link to the page the image came from
 
 comment: true
 toc: false
@@ -58,9 +59,6 @@ If you use Safari, either on an iPhone, iPad, or browser on a computer, you can 
 
 If you want to print articles or save as a PDF, try the Mercury Reader Chrome extension first - https://mercury.postlight.com/reader/. This gives you a clean version of the article without any sidebar, ads, or other distractions. You can then print or save as a PDF. This is also a nicer way to read articles in your browser. If you’re on Safari there’s a built in version of this called Reader View.
 
-<center>❧</center>
-<center><small> *[Photo by Johan Larsson](https://www.flickr.com/photos/johanl/4995944368)* </small>
-
 ---
-<center>
-📨 Mindful content delivered to your inbox. <br>[Click here to subscribe.](https://mailchi.mp/269014a38d08/adamtervort)</center>
+
+*Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*
