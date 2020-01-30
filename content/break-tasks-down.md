@@ -3,7 +3,7 @@ title: "Break Tasks Down into Small Chunks"
 slug: "break-tasks-down"
 date: "2020-01-29"
 draft: false
-description: "Tonight I was reminded of an important principle of effective work as I listened to my son play his scales. Yes, even middle school string bassists can be inspiring 😆"
+description: "Tonight I was reminded of an important principle of effective work as I listened to my son play his scales. Yes, even middle school string bassist can be inspiring 😆"
 
 tags: [music, work, first principles]
 
