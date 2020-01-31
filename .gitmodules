@@ -13,9 +13,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "themes/amperage"]
-	path = themes/amperage
-	url = https://github.com/asurbernardo/amperage.git
 [submodule "themes/story"]
 	path = themes/story
 	url = https://github.com/xaprb/story.git
