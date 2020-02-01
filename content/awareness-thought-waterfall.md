@@ -9,7 +9,7 @@ tags: [meditation, mindfulness]
 
 image: '/images/2020-01/awareness-thought-waterfall-optimized.jpg' # default width is 1280
 thumbnail: '/images/2020-01/awareness-thought-waterfall-500.jpg' # default size should be 500x500
-credit: 'https://unsplash.com/photos/fG5jun4bYBQ' # this is the link to the page the image came from 
+credit: 'https://unsplash.com/photos/-W4UMfJEzVg' # this is the link to the page the image came from 
 
 comment: true
 ---
