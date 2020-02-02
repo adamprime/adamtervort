@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-slug: "{{ .Name }}"
+slug: "{{ .Name }}" # be sure to manually add /YEAR/MONTH/ to the beginning of the slug, ie. /2020/02/
 date: "{{ dateFormat "2006-01-02" .Date }}"
 draft: true
 description: ""
