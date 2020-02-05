@@ -13,8 +13,8 @@ credit: '' # this is the link to the page the image came from
 
 comment: true
 ---
-
 <!--more-->
+
 ---
 
 *Comments or thoughts? Let me know on [Twitter](https://twitter.com/adamtervort/).*
