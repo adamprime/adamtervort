@@ -13,7 +13,7 @@ credit: 'https://unsplash.com/photos/Nh4Sxasye24' # this is the link to the page
 
 comment: true
 ---
-One of the most amazing things about the internet is hyperlinks. You’re reading something, see a link, click it, and suddenly you’re able to read something new that you didn’t know even existed. It’s like magic. It can also be terrible, yes. Point taken. But I’m frequently amazed at the things I discover when I'm reading a great article and click a link.
+One of the most amazing things about the internet is hyperlinks. You’re reading something, see a link, click it, and suddenly you’re able to read something new that you didn’t know even existed. It’s like magic. It can also be terrible, yes. Point taken. But I’m frequently amazed at the things I discover when I'm reading a great article and click one of the links in it.
 <!--more-->
 
 One of the problems I sometimes run into is gated content. If you click a link that leads to an article on the New York Times, Wall Street Journal, Harvard Business Review, or even Medium often enough you’ll start to run into paywalls. This is especially annoying if you only want to read a single article.
