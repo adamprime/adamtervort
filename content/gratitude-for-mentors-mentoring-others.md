@@ -3,7 +3,7 @@ title: "Gratitude for Mentors is Repaid through Mentoring Others"
 slug: "/2020/02/gratitude-for-mentors-mentoring-others" # be sure to manually add /YEAR/MONTH/ to the beginning of the slug, ie. /2020/02/
 date: "2020-02-24"
 draft: false # change to true if you don't want to publish right away
-description: ""
+description: "How do you repay a mentor? I think one of the best ways is by being a mentor to others."
 
 tags: [mentor, professional development, gratitude]
 
