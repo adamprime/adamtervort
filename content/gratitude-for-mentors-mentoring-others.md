@@ -24,7 +24,7 @@ I have been thinking about how to thank these people. I can’t afford gold watc
 > A lot of people have gone further than they thought they could because someone else thought they could.  
 > *Anonymous*
 
-**Here’s are my invitations to you:**
+**Here are my invitations to you:**
 
 - Remember the mentors and teachers who have changed your life. If appropriate, reach out to thank them.
 - Decide how you can become a mentor to someone in your circle of influence.
