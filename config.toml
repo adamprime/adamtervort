@@ -39,9 +39,14 @@ googleAnalytics = "UA-128042666-5"
   url = "/tags/"
 
 [[menu.main]]
-  name = "Courses"
-  title = "Courses"
-  url = "https://learn.hammock.marketing/"   
+  name = "Speeches"
+  title = "Speeches"
+  url = "/great-speeches/"
+
+#[[menu.main]]
+#  name = "Courses"
+#  title = "Courses"
+#  url = "https://learn.hammock.marketing/"   
 
 [params]
   author = "Adam Tervort"
