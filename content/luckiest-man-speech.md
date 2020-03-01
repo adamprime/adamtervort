@@ -3,7 +3,7 @@ title: "Luckiest Man on the Face of the Earth by Lou Gehrig"
 slug: "/great-speeches/luckiest-man-speech" # be sure to manually add /YEAR/MONTH/ to the beginning of the slug, ie. /2020/02/
 date: "2020-02-29"
 draft: false # change to true if you don't want to publish right away
-description: ""
+description: "Lou Gehrig, one of the greatest baseball players in history, gave a speech at the end of his career showing his gratitude and humility in the midst of adversity. It's one of my favorites."
 
 tags: [gratitude]
 
