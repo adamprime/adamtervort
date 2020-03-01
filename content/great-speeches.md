@@ -19,6 +19,8 @@ classes:
 ---
 I love to read the text of great speeches. There is a different quality in masterful oratory than we find in books or articles. It stirs the soul and inspires. Below are links to speeches that I enjoyed and wanted to share. Some are recent and some are older. When available, I’ve included a link to any further resources such as audio or video of the speech.
 
+<!--more-->
+
 [Personal Renewal by John W. Gardner](https://adamtervort.com/personal-renewal-speech/)
 
 [Luckiest Man on the Face of the Earth by Lou Gehrig](https://adamtervort.com/great-speeches/luckiest-man-speech/)
