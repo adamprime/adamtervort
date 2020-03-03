@@ -3,7 +3,7 @@ title: "The Joy of Morning Walks"
 slug: "/2020/03/joy-of-morning-walks" # be sure to manually add /YEAR/MONTH/ to the beginning of the slug, ie. /2020/02/
 date: "2020-03-02"
 draft: false # change to true if you don't want to publish right away
-description: "The most insiring thing I did today was taking a morning walk. It's amazing. Solitude and nature fuel creativity."
+description: "The most inspiring thing I did today was taking a morning walk. It's amazing. Solitude and nature fuel creativity."
 
 tags: [calm, creativity]
 
