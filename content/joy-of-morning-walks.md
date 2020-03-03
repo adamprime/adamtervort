@@ -16,7 +16,7 @@ comment: true
 Walking is such a natural act, but we many people don’t do much of it. This isn’t (necessarily) because we’re lazy. Some places aren’t well situated for frequent walking. If that’s true for you it’s still worth creating the time to walk. Walking without music, podcasts, or headphones provides a perfect environment for inspiration.
 <!--more-->
 
-This morning it was 37ºF (3ºC) when I started walking. It took a few minutes for my joints to warm up, then everything else did too. Listening to the birds, watching the squirrels, and saying hello to fellow walkers took up a bit of the walk, but most of the time was calm and quiet. 
+This morning it was 37ºF (3ºC) when I started walking. It took a few minutes for my joints to warm up, then everything else did too. Listening to the birds, watching the squirrels, and saying hello to fellow walkers took up a bit of the walk, but most of the time was calm and quiet.
 
 I planned for a department meetup. Marketing ideas bubbled and stewed. Concepts from a book resurfaced with ways to apply them.
 
