@@ -3,7 +3,7 @@ title: "Things Move a Little Slower Here"
 slug: "/2020/04/things-move-slower-here" # be sure to manually add /YEAR/MONTH/ to the beginning of the slug, ie. /2020/02/
 date: "2020-04-25"
 draft: false # change to true if you don't want to publish right away
-description: ""
+description: "When I moved to a small town in rural Taiwan I learned what it feels like when life is a bit slower. We're all getting a taste of that life now, and that's a huge opportunity!"
 
 tags: [deep work, pondering, slow life]
 
