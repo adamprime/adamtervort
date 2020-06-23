@@ -1,6 +1,6 @@
 ---
 title: "Adam Tervort"
-subtitle: "Mindful writing on work and productivity"
+subtitle: "Principles for Smart Knowledge Work"
 featured_image: '/images/small-successes.jpg'
 description: "The blog of Adam Tervort"
 ---
