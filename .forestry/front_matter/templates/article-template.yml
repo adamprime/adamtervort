@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: draft
+  type: boolean
+  label: Draft
+  hidden: false
+  default: true
 - type: text
   name: slug
   label: slug
@@ -14,18 +19,19 @@ fields:
 - type: text
   name: description
   label: description
-- type: list
-  name: tags
-  label: tags
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 - type: file
   name: image
-  label: image
+  label: Featured Image
+  description: default width is 1280
 - type: file
   name: thumbnail
-  label: thumbnail
+  label: Thumbnail Image
+  description: default size should be 500x500
 - type: text
   name: credit
-  label: credit
-- type: boolean
-  name: comment
-  label: comment
+  label: Image Credit
+  description: this is the link to the page the image came from
