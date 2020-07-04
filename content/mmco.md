@@ -15,7 +15,8 @@ Let me be clear on one point: the people are great. This is my fifth year partic
 
 It’s also amazing to be part of a group that brings together people from all parts of our community and of many different faiths. Many of us, like me, are members of the Church of Jesus Christ of Latter-day Saints, but we also have Baptists, Methodists, non-denominational Christians, and others who aren’t religious. The music and the joy of the Christmas season brings us together in a wonderful experience each year.
 
-## Wherefore art thou $$?
+## Wherefore art thou $$ ?
+
 Here’s the rub: raising money for a small nonprofit is really hard. We don’t have many expenses, but the ones we do have aren’t going away. Music rental is about 85% of our annual expenditure.  There aren’t many Christmas pieces for full symphony orchestra and choir, and the [Many Moods of Christmas](https://en.wikipedia.org/wiki/The_Many_Moods_of_Christmas) by Robert Shaw has defined our group from day one. It is an amazing piece of music, challenging and exciting. It is also nearly impossible to buy a copy of and the one music rental shop that owns it knows they have us over a barrel. I’m sure they love our little group. We perform a fairly obscure piece that would otherwise gather dust in their library, and both of us know there’s nowhere else to get the music. (Trust me, we’ve looked everywhere.)
 
 Then there are the normal expenses associated with putting a public performance: venue insurance, printing programs, decorations, etc. There are the fees to maintain our nonprofit status with the state of Missouri. I would love to do other little things too, like providing the members of the group with a gift bag, or buying lunch for the board during board meetings. Not necessary at all, but it sure would be nice.
