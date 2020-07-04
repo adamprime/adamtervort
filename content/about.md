@@ -2,8 +2,8 @@
 title: "About"
 date: 2018-08-31
 slug: /about
-image: img/briana-tozour-QipZr29K7Mw-unsplash.jpg
-thumbnail: img/briana-tozour-QipZr29K7Mw-unsplash_500x500.jpeg
+image: /img/briana-tozour-QipZr29K7Mw-unsplash.jpg
+thumbnail: /img/briana-tozour-QipZr29K7Mw-unsplash_500x500.jpeg
 credit: https://unsplash.com/photos/QipZr29K7Mw
 ---
 
@@ -18,7 +18,6 @@ Hello, I'm Adam. I work on the people side of an awesome tech company, SpiderOak
 - I can't stand most music with lyrics. (Unless it's jazz. But definitely not smooth jazz. That doesn't even qualify as music.)
 - Aside from being a music snob, I'm generally pretty nice
 
-One of the things I most enjoy is sharing what I know. If there's something I can help you with [please let me know](/contact)! I have a number of courses available on my side project, [Hammock Marketing](https://learn.hammock.marketing).
+One of the things I most enjoy is sharing what I know. If there's something I can help you with [please let me know](/contact)!
 
 Want to connect? I'm on [Twitter](https://twitter.com/adamtervort) and [LinkedIn](https://www.linkedin.com/in/adam-tervort/).
-

@@ -13,9 +13,19 @@ classes:
 - feature-depth
 ---
 
-The quickest way to get in touch with me is on [Twitter](https://twitter.com/adamtervort/). You can also email me below.
+You can get in touch with me on [Twitter](https://twitter.com/adamtervort/), on [LinkedIn](https://linkedin.com/in/adam-tervort), or by the form below.
 
-<div class="inbound-form-wrapper" id="form_668" data-path="https://app.99inbound.com/i/1039ab39-62e1-460e-aef7-c5c5c94c72d4" data-token="ebWQLRDJQZ2f1K844cunTgtt"></div>
-
-<!-- Only include this once in your webpage -->
-<script type="text/javascript" src="https://app.99inbound.com/99inbound.js"></script>
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
