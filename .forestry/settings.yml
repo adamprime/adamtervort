@@ -6,9 +6,11 @@ webhook_url:
 sections:
 - type: directory
   path: content
-  label: Pages
+  label: Articles
   create: all
   match: "*"
+  templates:
+  - article-template
 - type: directory
   path: content/search
   label: Search
@@ -39,11 +41,11 @@ sections:
   label: '2020'
   create: all
   match: "**/*"
-upload_dir: static/uploads
-public_path: "/uploads"
+upload_dir: static/images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: ":year:/:month:/:filename:"
 build:
   preview_env:
   - HUGO_ENV=staging

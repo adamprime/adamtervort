@@ -1,0 +1,37 @@
+---
+label: Article Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- name: draft
+  type: boolean
+  label: Draft
+  hidden: false
+  default: true
+- type: text
+  name: slug
+  label: slug
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- type: file
+  name: image
+  label: Featured Image
+  description: default width is 1280
+- type: file
+  name: thumbnail
+  label: Thumbnail Image
+  description: default size should be 500x500
+- type: text
+  name: credit
+  label: Image Credit
+  description: this is the link to the page the image came from
