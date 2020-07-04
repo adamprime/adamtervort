@@ -1,6 +1,6 @@
 +++
 credit = ""
-date = 2020-07-04T05:00:00Z
+date = 2020-07-05T05:00:00Z
 description = "Small changes can have big effects. Here's a simple lesson in applied physics that reminds me of this principle."
 draft = true
 image = ""
