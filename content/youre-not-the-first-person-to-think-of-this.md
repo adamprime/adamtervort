@@ -1,7 +1,7 @@
 ---
 title: You're Not the First Person to Think of This
-slug: not-first-to-think-of-this
-date: 2020-07-04T21:35:26.523Z
+slug: /2020/07/not-first-to-think-of-this
+date: 2020-07-04
 description: You may not be the first person to think of a certain idea, but
   does that even matter? Ideas don't have to be unique to be great.
 tags: ideas
