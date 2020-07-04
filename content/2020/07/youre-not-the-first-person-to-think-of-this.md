@@ -10,7 +10,10 @@ thumbnail: /images/uploads/not-first-to-think-of-this-500.jpg
 credit: https://unsplash.com/photos/FmD8tIkf8bo
 draft: false
 ---
-That's actually a very comforting statement. It can be discouraging to think that you aren't totally unique, but knowing that someone else has  had the same idea as you means a few more things:
+That's actually a very comforting statement.
+<!--more-->
+
+It can be discouraging to think that you aren't totally unique, but knowing that someone else has  had the same idea as you means a few more things:
 
 - This idea is important enough that others are thinking about it
 - Someone out there can help you extend on this idea (because they already have)
@@ -19,3 +22,7 @@ That's actually a very comforting statement. It can be discouraging to think tha
 Being the first or the original just isn't that important. Understanding that your ideas build on the work of others will help you to take them farther than you might otherwise have had the ability too.
 
 Learn from and acknowledge the thinkers that came before you. Pay it forward to the thinkers who'll come after you.
+
+---
+
+*Comments or thoughts? Let me know below!*
