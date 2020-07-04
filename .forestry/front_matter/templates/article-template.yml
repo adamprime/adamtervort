@@ -35,3 +35,5 @@ fields:
   name: credit
   label: Image Credit
   description: this is the link to the page the image came from
+pages:
+- content/the-applied-physics-of-efficient-work.md
