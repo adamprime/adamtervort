@@ -1,6 +1,6 @@
 ---
 title: "Reflections on 400 Days of Journaling"
-slug: "/2020/02/400-days-journaling" # be sure to manually add /YEAR/MONTH/ to the beginning of the slug, ie. /2020/02/
+slug: '/2020/02/400-days-journaling' # be sure to manually add /YEAR/MONTH/ to the beginning of the slug, ie. /2020/02/
 date: "2020-02-18"
 draft: false # change to true if you don't want to publish right away
 description: "I just passed 400 consecutive days of journaling. I've learned some interesting lessons along the way."
