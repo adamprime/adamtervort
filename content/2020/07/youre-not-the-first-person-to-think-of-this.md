@@ -8,7 +8,7 @@ tags: ideas
 image: /images/uploads/not-first-to-think-of-this-optimized.jpg
 thumbnail: /images/uploads/not-first-to-think-of-this-500.jpg
 credit: https://unsplash.com/photos/FmD8tIkf8bo
-draft: "true"
+draft: false
 ---
 That's actually a very comforting statement. It can be discouraging to think that you aren't totally unique, but knowing that someone else has  had the same idea as you means a few more things:
 
