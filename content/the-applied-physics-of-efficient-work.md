@@ -24,6 +24,6 @@ When you’re doing work that involves writing, such as email, it makes no sense
 
 Removing email from my phone was something that made a huge difference to my productivity and to my happiness. Even if this isn’t something that will directly apply to the work you do, you can find similar aspects the work you can do and effect a large improvement with a small change.
 
-\----
+***
 
-\*Comments or thoughts? Let me know on
+_Comments or thoughts? Let me know below._
