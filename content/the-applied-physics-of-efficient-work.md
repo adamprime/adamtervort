@@ -4,8 +4,8 @@ date = 2020-07-05T05:00:00Z
 description = "Small changes can have big effects. Here's a simple lesson in applied physics that reminds me of this principle."
 draft = true
 image = ""
-slug = ""
-tags = []
+slug = "/2020/07/the-applied-physics-of-efficient-work"
+tags = ["work", "80/20"]
 thumbnail = ""
 title = "The Applied Physics of Efficient Work "
 
