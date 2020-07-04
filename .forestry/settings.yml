@@ -9,6 +9,8 @@ sections:
   label: Articles
   create: all
   match: "*"
+  templates:
+  - article-template
 - type: directory
   path: content/search
   label: Search
