@@ -2,7 +2,6 @@
 credit = "https://unsplash.com/photos/M6tN7AZ_bNs"
 date = 2020-07-05T05:00:00Z
 description = "Small changes can have big effects. Here's a simple lesson in applied physics that reminds me of this principle."
-draft = true
 image = "/images/2020/07/the-applied-physics-of-efficient-work-optimized.jpg"
 slug = "/2020/07/the-applied-physics-of-efficient-work"
 tags = ["work", "80/20"]
