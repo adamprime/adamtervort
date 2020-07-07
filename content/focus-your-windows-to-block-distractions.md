@@ -14,7 +14,7 @@ On my computer I love the option to have a window take up the entire screen. Not
 
 Knowledge work, the kind of work many of us do all day, revolves around writing. For hundreds of years writing was a pretty simple task. Whether it was a letter, a recipe, or a novel, the person writing had a pen and some paper. The paper could be a loose sheet or part of a bound book. The pen could be a fountain pen or a quill or a ballpoint. The essential ingredients for this kind of work were simple.
 
-When typewriters became popular it meant a new tool was being used, but the essential task was the same. One sheet of paper and one typewriter. The writer pressed on keys, letters and symbols were imprinted on the paper, and that was that. It wasn't very efficient and if you made a mistake it meant some sort of manual correction, but that's not all that different from working with a pen and paper. 
+Typewriters were a new tool in knowledge work, but the essential task was the same. One sheet of paper and one typewriter. The writer pressed on keys, letters and symbols were imprinted on the paper, and that was that. It wasn't very efficient and if you made a mistake it meant some sort of manual correction, but that's not all that different from working with a pen and paper. 
 
 Computers and mobile devices changed this. Fixing mistakes was so easy! Press a key and delete the mistake. Sharing the work was much easier too. Email meant the cost was effectively zero to send your writing to someone and the speed was basically instant.
 
