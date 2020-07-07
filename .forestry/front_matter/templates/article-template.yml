@@ -36,4 +36,5 @@ fields:
   label: Image Credit
   description: this is the link to the page the image came from
 pages:
+- content/focus-your-windows-to-block-distractions.md
 - content/the-applied-physics-of-efficient-work.md
