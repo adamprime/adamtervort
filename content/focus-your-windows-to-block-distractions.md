@@ -10,9 +10,9 @@ thumbnail = "/images/2020/07/focus-your-windows-to-block-distractions-500.jpg"
 title = "Focus Your Windows to Block Distractions"
 
 +++
-On my computer I love the option to have a window take up the entire screen. Not just to maximize the window or to cover all of the desktop, but to take up the entire screen. As I write this I have only one window visible, no menu bar or icons in the dock. Do Not Disturb mode is enabled. Right now this computer is only capable of doing one thing.
+On my computer I love the option to have a window take up the entire screen. Not just to maximize it to cover the desktop, but filling the entire screen. As I write this I have only one window visible, no menu bar or icons in the dock. Do Not Disturb mode is enabled. Right now this computer is only capable of doing one thing.
 
-Writing, whether a letter, a recipe, or a novel, used to be like this all of the time. The person writing had a pen and some paper. The paper could be a loose sheet or part of a bound book. The pen could be a fountain pen or a quill or a ballpoint. The essential ingredients for "knowledge work" were simple.
+Knowledge work, the kind of work many of us do all day, revolves around writing. For hundreds of years writing was a pretty simple task. Whether it was a letter, a recipe, or a novel, the person writing had a pen and some paper. The paper could be a loose sheet or part of a bound book. The pen could be a fountain pen or a quill or a ballpoint. The essential ingredients for "knowledge work" were simple.
 
 When typewriters became popular it meant a new tool was being used, but the essential task was the same. One sheet of paper and one typewriter. The writer pressed on keys, letters and symbols were imprinted on the paper, and that was that. It wasn't very efficient and if you made a mistake it meant some sort of manual correction, but that's not all that different from working with a pen and paper. 
 
