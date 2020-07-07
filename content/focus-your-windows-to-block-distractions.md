@@ -24,4 +24,4 @@ I don't know that I have very many answers, but I know that when my focus is on 
 
 It seems counter intuitive to work this way. Computers have trained us all to try and multi-task. They call out that this is the only way to do knowledge work. It must be right!
 
-Just remember that long before computers dinged for every email and pinged for every new YouTube video, people like you have been getting work done by single tasking. You don't have to revert to pen and paper or a typewriter to get the benefits that kind of work brings.
+Remember that long before computers dinged for every email and pinged for every new YouTube video, people like you worked by single tasking. You don't have to revert to pen and paper or a typewriter to get the benefits that kind of work brings.
