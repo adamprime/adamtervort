@@ -2,7 +2,6 @@
 credit = "https://unsplash.com/photos/_-KLkj7on_c"
 date = 2020-07-07T02:00:00Z
 description = ""
-draft = true
 image = "/images/2020/07/focus-your-windows-to-block-distractions-optimized.jpg"
 slug = "/2020/07/focus-your-windows-to-block-distractions"
 tags = ["focus", "computing"]
