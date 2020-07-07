@@ -16,7 +16,7 @@ Knowledge work, the kind of work many of us do all day, revolves around writing.
 
 Typewriters were a new tool in knowledge work, but the essential task was the same. One sheet of paper and one typewriter. The writer pressed on keys, letters and symbols were imprinted on the paper, and that was that. It wasn't very efficient and if you made a mistake it meant some sort of manual correction, but pen and paper had the same challenge. 
 
-Computers and mobile devices changed this. Fixing mistakes was so easy! Press a key and delete the mistake. Sharing the work was much easier too. Email meant the cost was effectively zero to send your writing to someone and the speed was basically instant.
+Computers and mobile devices changed this. Fixing mistakes was so easy! Press a key and delete the mistake. Sharing the work was much easier too. Email meant sending your work cost nothing and it arrived in an instant.
 
 Technology made things better in so many ways, but it has also changed the equation. Rather than **facilitating** the basic tasks we do, it actively **tries to take our attention away** from that task. How many of the notifications that you receive on your phone do you really need to know about right now? How often does a ping take you away from something you are doing in real life?
 
