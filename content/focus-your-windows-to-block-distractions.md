@@ -20,7 +20,7 @@ Computers and mobile devices changed this. Fixing mistakes was so easy! Press a 
 
 Technology made things better in so many ways, but it has also changed the equation. Rather than **facilitating** the basic tasks we do, it actively **tries to take our attention away** from that task. How many of your phone's notifications do you really need to see right now? How often does a computer ping take you away from something you are doing in real life?
 
-I don't know that I have very many answers, but I know that when I purposely set up my computer so that my focus is on only one thing at a time (a single window and the single task I'm doing in that window) I get much more done.
+I don't know that I have very many answers, but I know that when my focus is on only one thing at a time I get much more done.
 
 It seems counter intuitive to work this way. Computers have trained us all to try and multi-task. They call out that this is the only way to do knowledge work. It must be right!
 
