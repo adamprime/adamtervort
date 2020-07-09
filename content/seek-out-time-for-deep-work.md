@@ -1,12 +1,12 @@
 +++
-credit = ""
+credit = "https://unsplash.com/photos/GAv6SVHKQiw"
 date = 2020-07-09T05:00:00Z
 description = "With a little bit of wrangling and creativity, you an add \"focus time\" to your daily calendar. Deep work only happens when we create time for it."
 draft = true
-image = ""
+image = "/images/2020/07/seek-out-time-for-deep-work-optimized.jpg"
 slug = "/2020/07/seek-out-time-for-deep-work"
 tags = ["deep work"]
-thumbnail = ""
+thumbnail = "/images/2020/07/seek-out-time-for-deep-work-500.jpg"
 title = "Seek Out Time for Deep Work"
 
 +++
