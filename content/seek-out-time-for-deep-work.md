@@ -18,7 +18,7 @@ Recently on his [blog](https://www.calnewport.com/blog/2020/07/07/has-the-shift-
 
 You don’t need an AI assistant to do this for you. If your working hours revolve around a calendar, simply schedule time for deep work. At SpiderOak, we have an open culture of booking meetings based on calendar availability. If someone has a block of time marked as Unavailable, then meetings won’t be scheduled during that time. Creating a block of focus time is as simple as scheduling it on your calendar.
 
-I’ve also seen examples of people schedule their meetings for just the afternoon so that they can have the morning for deep work (or vice versa). This won’t work for everyone, but through basic daily planning and a bit of support from your coworkers you can carve out a time each day that’s dedicated to deeper, more foundational work.
+I’ve also seen examples of people scheduling their meetings for just the afternoon so that they can have the morning for deep work (or vice versa). This won’t work for everyone, but through basic daily planning and a bit of support from your coworkers you can carve out a time each day that’s dedicated to deeper, more foundational work.
 
 Investing in work like this pays huge long-term dividends. It may be months or years before you see the gains from this work, but they will come. Make time for it!
 
