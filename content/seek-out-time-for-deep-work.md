@@ -21,5 +21,3 @@ You don’t need an AI assistant to do this for you. If your working hours revol
 I’ve also seen examples of people scheduling their meetings for just the afternoon so that they can have the morning for deep work (or vice versa). This won’t work for everyone, but through basic daily planning and a bit of support from your coworkers you can carve out a time each day that’s dedicated to deeper, more foundational work.
 
 Investing in work like this pays huge long-term dividends. It may be months or years before you see the gains from this work, but they will come. Make time for it!
-
-hel
