@@ -10,7 +10,7 @@ thumbnail = "/images/2020/07/seek-out-time-for-deep-work-500.jpg"
 title = "Seek Out Time for Deep Work"
 
 +++
-If you’ve never read it, Cal Newport’s book _Deep Work_ should be on your reading list. It proposed a radical philosophy of work: you need time to concentrate deeply on tasks in order to do work that matters.
+If you’ve never read it, Cal Newport’s book _Deep Work_ should be on your reading list. It proposes a radical philosophy of work: you need time to concentrate deeply on tasks in order to do work that matters.
 
 <!--more-->
 
