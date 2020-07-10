@@ -14,7 +14,7 @@ During the 10 years I lived in Taiwan, I learned a lot of things that surprised 
 
 This was really impressed on me was when my younger son was hospitalized with the H1N1 flu. He went from being a kid with a light fever to a very sick little boy in a short time. We were taking him to our family doctor’s office (for the second time that day) when he had a seizure. Holding him while he seized was the most terrifying thing I’ve ever experienced. The doctor was great and got him stabilized, then sent us off to the hospital.
 
-In the ER my son tested positive for H1N1 and was admitted. (The quality of the care he received in the nationalized healthcare system was amazing, but a topic for a different post.) The morning after he was admitted a nurse woke me up to check in and then she handed me a mask. I was surprised, and asked her why. “You’ve probably already been exposed, so it’s important for everyone that you wear a mask.”
+In the ER my son tested positive for H1N1 and was admitted. (The quality of the care he received in the nationalized healthcare system was amazing, but a topic for a different post.) The morning after he was admitted a nurse woke me up to check in and then she handed me a mask. I was surprised, and asked her why. “You’ve probably already been exposed, so it’s important for everyone around you that you wear a mask.”
 
 I’ll admit that I had never thought about diseases in that way. My concern was always for myself and my immediate family, and less for the nebulous “others out there.” Yet in Taiwan I saw over and over again how wearing a mask _to protect the people around you_ was normal and encouraged. Once I understood this my attitude completely changed.
 
