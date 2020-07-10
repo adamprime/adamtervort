@@ -1,12 +1,12 @@
 +++
-credit = ""
+credit = "https://unsplash.com/photos/Z9arfr0f248"
 date = 2020-07-10T05:00:00Z
 description = "Wearing masks is polarizing now. Here's the experience that changed my attitude about mask wearing while I lived in Taiwan."
 draft = true
-image = ""
+image = "/images/2020/07/we-will-only-break-through-together-optimized.jpg"
 slug = "/2020/07/we-will-only-break-through-together/"
 tags = ["COVID", "community"]
-thumbnail = ""
+thumbnail = "/images/2020/07/we-will-only-break-through-together-500.jpg"
 title = "We Will Only Break Through Together"
 
 +++
