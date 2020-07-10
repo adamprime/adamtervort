@@ -11,6 +11,8 @@ title = "We Will Only Break Through Together"
 +++
 During the 10 years I lived in Taiwan, I learned a lot of things that surprised me. One that's applicable to our lives now is that wearing masks can become a normal, accepted part of life. The thing about wearing a mask, and what helped me be comfortable with it, is that it's really about _others_ rather than about _you._
 
+<!--more-->
+
 This was really impressed on me was when my younger son was hospitalized with the H1N1 flu. He went from being a kid with a light fever to a very sick little boy in a short time. We were taking him to our family doctor’s office (for the second time that day) when he had a seizure. Holding him while he seized was the most terrifying thing I’ve ever experienced. The doctor was great and got him stabilized, then sent us off to the hospital.
 
 In the ER my son tested positive for H1N1 and was admitted. (The quality of the care he received in the nationalized healthcare system was amazing, but a topic for a different post.) The morning after he was admitted a nurse woke me up to check in and then she handed me a mask. I was surprised, and asked her why. “You’ve probably already been exposed, so it’s important for everyone around you that you wear a mask.”
