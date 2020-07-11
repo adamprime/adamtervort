@@ -2,7 +2,6 @@
 credit = "https://unsplash.com/photos/MgWEUyCU0rs"
 date = 2020-07-11T05:00:00Z
 description = "Starting can be so difficult. Here are examples of principles from Herodutus and Langston Hughes that help me."
-draft = true
 image = "/images/2020/07/the-battle-against-them-would-be-in-the-shade-optimized.jpg"
 slug = "/2020/07/the-battle-against-them-would-be-in-the-shade"
 tags = ["work", "starting"]
@@ -32,6 +31,6 @@ In his autobiography, Langston Hughes tells the story of a trip from New York to
 >
 > You see, books had been happening to me. Now the books were cast off back there somewhere in the churn of spray and night behind the propeller. I was glad there were gone.
 
-With no books around to read, Hughes started to write as he never had before. It was the true beginning of his writing career.
+With no books around to read, Hughes started to write as never before. It was the true beginning of his writing career.
 
-When it’s hard to start, that means that the thing you are doing is worthwhile. Nothing good ever comes without resistance. Fight through the resistance, however you can, and as you get to work you’ll know more from the doing than you even would have from just studying and preparing.
+When it’s hard to start, that means the thing you are doing is worthwhile. Nothing good ever comes without resistance. Fight through the resistance, however you can, and as you get to work you’ll know more from the doing than you even would have from just studying and preparing.
