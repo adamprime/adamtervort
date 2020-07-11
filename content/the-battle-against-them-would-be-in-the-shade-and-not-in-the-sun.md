@@ -14,6 +14,8 @@ One of the most difficult things for me is starting something new. I love learni
 
 Here are a few methods I’ve found that can help.
 
+<!--more-->
+
 Reframing the situation can make something difficult look less daunting. This takes a good sense of humor many times, but can help more than you’d think.
 
 One of my favorite stories is of the Spartan army at Thermopylae. Herodotus, the Greek historian, recorded this scene:
