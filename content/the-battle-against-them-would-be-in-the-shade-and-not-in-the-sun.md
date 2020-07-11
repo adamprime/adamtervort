@@ -10,7 +10,7 @@ thumbnail = "/images/2020/07/the-battle-against-them-would-be-in-the-shade-500.j
 title = "“The Battle Against Them Would Be in the Shade and Not in the Sun”"
 
 +++
-One of the most difficult things for me is starting something new. I love learning new things. Researching, comparing, reading about others who have done the same thing, all of these tasks are something I enjoy. What’s hard is when it’s time to stop reading and start doing.
+One of the most difficult things for me is starting something new. I love learning new things. Researching, comparing, reading about others who have done the same thing, I enjoy all of it. What’s hard is when it’s time to stop reading and start doing.
 
 Here are a few methods I’ve found that can help.
 
@@ -24,9 +24,9 @@ One of my favorite stories is of the Spartan army at Thermopylae. Herodotus, the
 
 Yes, the battle was hopeless. Yes, they were facing certain death. But at least they could fight in the shade. You can imagine the cold laughter that followed Dienekes’s quip, but that laughter also broke up the fear in many hearts. Reframe the situation and see if things don’t look better than you thought.
 
-The second method is to remove alternatives. Boredom can be a powerful motivator, though it’s something most of us don’t experience often enough. When we remove more pleasant activities it’s easier to get started on the hard tasks.
+The second method is to remove alternatives. Boredom can be a powerful motivator, though it’s something most of us don’t experience often enough. When we remove more pleasant activities it’s easier to get started on the hard ones.
 
-In his autobiography, Langston Hughes tells the story of his trip from New York to Africa. The first night of the trip he throws all of his books overboard.
+In his autobiography, Langston Hughes tells the story of a trip from New York to Africa on a ship. The first night of the trip he threw all of his books overboard.
 
 > Melodramatic maybe, it seems to me now. But then it was like throwing a million bricks out of my heart when I threw the books into the water. I leaned over the rail of the S.S. Malone and threw the books as far as I could out into the sea—all the books I had had at Columbia, and all the books I had lately bought to read….
 >
