@@ -1,12 +1,12 @@
 +++
-credit = ""
-date = ""
-description = ""
+credit = "https://unsplash.com/photos/MgWEUyCU0rs"
+date = 2020-07-11T05:00:00Z
+description = "Starting can be so difficult. Here are examples of principles from Herodutus and Langston Hughes that help me."
 draft = true
-image = ""
-slug = ""
-tags = []
-thumbnail = ""
+image = "/images/2020/07/the-battle-against-them-would-be-in-the-shade-optimized.jpg"
+slug = "/2020/07/the-battle-against-them-would-be-in-the-shade"
+tags = ["work", "starting"]
+thumbnail = "/images/2020/07/the-battle-against-them-would-be-in-the-shade-500.jpg"
 title = "“The Battle Against Them Would Be in the Shade and Not in the Sun”"
 
 +++
