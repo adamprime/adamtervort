@@ -1,7 +1,7 @@
 +++
 credit = "https://unsplash.com/photos/MgWEUyCU0rs"
 date = 2020-07-11T05:00:00Z
-description = "Starting can be so difficult. Here are some principles from Herodutus and Langston Hughes that help me."
+description = "Starting can be so difficult. Here are some principles from Herodutus and Langston Hughes that help me when it’s time to stop preparing and take action."
 image = "/images/2020/07/the-battle-against-them-would-be-in-the-shade-optimized.jpg"
 slug = "/2020/07/the-battle-against-them-would-be-in-the-shade"
 tags = ["work", "starting"]
