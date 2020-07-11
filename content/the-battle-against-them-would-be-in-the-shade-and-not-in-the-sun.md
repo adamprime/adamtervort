@@ -33,4 +33,4 @@ In his autobiography, Langston Hughes tells the story of a trip from New York to
 
 With no books around to read, Hughes started to write as never before. It was the true beginning of his writing career.
 
-When it’s hard to start, that means the thing you are doing is worthwhile. Nothing good ever comes without resistance. Fight through the resistance, however you can, and as you get to work you’ll know more from the doing than you even would have from just studying and preparing.
+When it’s hard to start, that means the thing you are doing is worthwhile. Nothing good ever comes without resistance. Fight through the resistance, however you can, and as you get to work you’ll know more from the doing than you could from just studying and preparing.
