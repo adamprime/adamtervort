@@ -1,12 +1,12 @@
 +++
-credit = ""
-date = ""
+credit = "https://unsplash.com/photos/6EnTPvPPL6I"
+date = 2020-07-14T05:00:00Z
 description = ""
 draft = true
-image = ""
-slug = ""
-tags = []
-thumbnail = ""
+image = "/images/2020/07/experience-improves-systems-optimized.jpg"
+slug = "/2020/07/experience-improves-systems"
+tags = ["systems", "improvement"]
+thumbnail = "/images/2020/07/experience-improves-systems-500.jpg"
 title = "Experience Improves Systems"
 
 +++
