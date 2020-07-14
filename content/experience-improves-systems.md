@@ -20,4 +20,4 @@ I debated whether or not I would go back the next week, but decided to give it a
 
 By the fourth week it was a well oiled machine. One of the fun things to watch was how the experienced volunteers trained the new ones. Unlike the first week when everyone was new and there was frantic discussion and on-the-fly changes, now the experienced volunteers trained the new ones on how the system works and why. The questions new volunteers asked were answered from a place of experience.
 
-In our work, we should look for ways to put systems in place that improve processes and increase efficiency. But don't overlook the value of tweaking the system based on experiences within it. Those small changes can be the difference between a good customer experience and a great one.
+In our work, creating systems improves processes and efficiency. But don't overlook the value of tweaking the system based on experiences within it. Those small changes can be the difference between a good customer experience and a great one.
