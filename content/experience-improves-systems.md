@@ -14,7 +14,7 @@ Setting up systems is one of the quickest ways to improve efficiency. Experience
 
 <!--more-->
 
-A few weeks ago I went to a community organization to pick up some supplies. Their offering was well received and a lot of people showed up around the same time as me. It was terrible. The line was long, the service was slow, and everyone was grumpy. I felt bad for the people in the organization. They were doing their best to help everyone, but they really didn't have a system in place which caused some serious issues and it made the experience terrible for everyone involved.
+A few weeks ago I went to a community organization to pick up some supplies. Their offering was well received and a lot of people showed up around the same time as me. It was terrible. The line was long, the service was slow, and everyone was grumpy. I felt bad for the people in the organization. They were doing their best to help everyone, but they really didn't know how to handle the situation and it made the experience terrible for everyone involved.
 
 I debated whether or not I would go back the next week, but decided to give it another try. The second week was much better. They learned from the mistakes of the first week and had a much more robust and efficient system set up. The wait time was reduced, time in line was used for tasks that would speed up time at the front of the line, and the volunteers were better trained.
 
