@@ -1,7 +1,7 @@
 +++
 credit = "https://unsplash.com/photos/6EnTPvPPL6I"
 date = 2020-07-14T05:00:00Z
-description = ""
+description = "Setting up systems is important. Once that's done the next step is to use the system so we can adjust it based on experience."
 image = "/images/2020/07/experience-improves-systems-optimized.jpg"
 slug = "/2020/07/experience-improves-systems"
 tags = ["systems", "improvement"]
